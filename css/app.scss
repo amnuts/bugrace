@@ -43,6 +43,10 @@ header {
 
 .card {
   text-align: center;
+  > img {
+    z-index: 100;
+    position: relative;
+  }
   aside {
     display: flex;
     align-items: center;
@@ -58,30 +62,50 @@ header {
     top: 45px;
     left: -65px;
     border-radius: 50%;
-    > span {
-    }
+    z-index: 200;
   }
   > div {
     display: flex;
     justify-content: space-around;
+    top: -17px;
     position: relative;
-    top: 20px;
+    z-index: 50;
     > aside {
-      color: $primary-color-text;
-      background-color: $secondary-text-color;
-      width: 65px;
+      background-color: $primary-color-light;
       height: 65px;
       flex-direction: column;
+      flex: 1 1;
+      &:nth-child(1) {  }
+      &:nth-child(2) {  }
       > span {
         line-height: 1.1rem;
-      }
-      > span:nth-child(1) {
-        font-size: 1.25rem;
-      }
-      > span:nth-child(2) {
-        @extend .roboto-thin;
-        font-size: .8rem;
+        &:nth-child(1) {
+          font-size: 1.25rem;
+        }
+        &:nth-child(2) {
+          font-size: .8rem;
+          color: $secondary-text-color
+        }
       }
     }
+  }
+  .winner-left, .winner-right {
+    position: absolute;
+    top: -10px;
+    line-height: 2em;
+    > i {
+      &:first-of-type {
+        color: darken($accent-color, 10);
+      }
+      &:last-of-type {
+        color: #ffffff;
+      }
+    }
+  }
+  .winner-left {
+    left: -15px;
+  }
+  .winner-right {
+    right: -15px;
   }
 }
