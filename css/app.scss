@@ -1,0 +1,43 @@
+$primary-color-dark:   #388E3C;
+$primary-color:        #4CAF50;
+$primary-color-light:  #C8E6C9;
+$primary-color-text:   #FFFFFF;
+$accent-color:         #607D8B;
+$primary-text-color:   #212121;
+$secondary-text-color: #757575;
+$divider-color:        #BDBDBD;
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,400');
+
+.roboto-regular {
+  font-family: Roboto,Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-weight: 400;
+}
+
+.roboto-thin {
+  @extend .roboto-regular;
+  font-weight: 100;
+}
+
+header {
+  margin-bottom: 1rem;
+  background-color: $primary-color-dark;
+  color: $primary-color-text;
+  h1 {
+    font-size:2rem;
+    @extend .roboto-regular;
+    margin: 2rem 0 0 0;
+  }
+  h2 {
+    font-size: 1.75rem;
+    @extend .roboto-thin;
+    margin: 0 0 2rem 0;
+  }
+}
+
+.card {
+  > div {
+    padding: 0.5rem;
+    text-align: center;
+  }
+}
