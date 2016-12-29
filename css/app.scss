@@ -7,7 +7,6 @@ $primary-text-color:   #212121;
 $secondary-text-color: #757575;
 $divider-color:        #BDBDBD;
 
-
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,400');
 
 .roboto-regular {
@@ -24,20 +23,56 @@ body {
   color: $primary-text-color;
 }
 
+a {
+  color: $primary-color;
+}
+
 header {
+  position:relative;
+  min-height:225px;
   text-align: center;
-  margin-bottom: 1rem;
   background-color: $primary-color-dark;
   color: $primary-color-text;
+  display: flex;
+  align-items: center;
+  @media only screen and (min-width: 40em) {
+    align-items: flex-end;
+  }
   h1 {
     font-size:2rem;
     @extend .roboto-regular;
     margin: 1rem 0 0 0;
+    @media screen and (max-width: 39.9375em) {
+      text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.4);
+    }
   }
   h2 {
     font-size: 1.1rem;
     @extend .roboto-thin;
     margin: 0 0 1rem 0;
+  }
+  > div.row {
+    position: relative;
+  }
+  .image-header {
+    bottom: 0;
+    height: auto;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    img {
+      height: 100%;
+      left: 0;
+      -o-object-fit: cover;
+      object-fit: cover;
+      top: 0;
+      -ms-transform: none;
+      -moz-transform: none;
+      -webkit-transform: none;
+      transform: none;
+      width: 100%;
+    }
   }
 }
 
@@ -107,5 +142,46 @@ header {
   }
   .winner-right {
     right: -15px;
+  }
+}
+
+ol.trail {
+  list-style: none;
+  margin: 0;
+  text-align: center;
+  > li {
+    > a {
+      font-weight: bold;
+    }
+    > p {
+      font-size: .8rem;
+      margin:0;
+    }
+  }
+  > aside {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: .5rem 0;
+    &::before {
+      content: "";
+      display:block;
+      height:80px;
+      width:1px;
+      border: 0 solid $divider-color;
+      border-left-width: 3px;
+    }
+    > span {
+      position: absolute;
+      background-color: $divider-color;
+      color: $primary-color-dark;
+      font-size:.68rem;
+      width: 40px;
+      height: 40px;
+      display: flex;
+      border-radius: 50%;
+      justify-content: center;
+      align-items: center;
+    }
   }
 }
