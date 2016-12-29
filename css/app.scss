@@ -64,12 +64,8 @@ header {
     img {
       height: 100%;
       left: 0;
-      -o-object-fit: cover;
-      object-fit: cover;
       top: 0;
-      -ms-transform: none;
-      -moz-transform: none;
-      -webkit-transform: none;
+      object-fit: cover;
       transform: none;
       width: 100%;
     }
@@ -182,6 +178,42 @@ ol.trail {
       border-radius: 50%;
       justify-content: center;
       align-items: center;
+    }
+  }
+}
+
+footer {
+  margin-top: 2rem;
+  background-color: $primary-color-dark;
+  padding: 1rem 0;
+  p {
+    color: $primary-color-text;
+    font-size: .9rem;
+  }
+  p:last-of-type {
+    margin: 0;
+  }
+  img {
+    width: 75px;
+    height: auto;
+  }
+  div.columns:first-of-type {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  div.columns:last-of-type {
+    text-align: right;
+  }
+  @media screen and (max-width: 39.9375em) {
+    div.columns:first-of-type {
+      text-align: center;
+    }
+    div.columns:last-of-type {
+      text-align: center;
+      > img {
+        margin-top: 1rem;
+      }
     }
   }
 }
