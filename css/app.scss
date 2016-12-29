@@ -21,6 +21,9 @@ $divider-color:        #BDBDBD;
 
 body {
   color: $primary-text-color;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 a {
@@ -70,6 +73,10 @@ header {
       width: 100%;
     }
   }
+}
+
+main {
+  flex: 1;
 }
 
 .card {
