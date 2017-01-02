@@ -5,6 +5,8 @@ require 'vendor/autoload.php';
 use Treffynnon\Navigator as N;
 use Treffynnon\Navigator\Distance\Converter\MetreToKilometre as KM;
 use Treffynnon\Navigator\Distance\Converter\MetreToMile as M;
+use Treffynnon\Navigator\Coordinate as C;
+use Treffynnon\Navigator\Coordinate\DmsParser as DMS;
 
 $people = array_merge(
     ['rosie' => [], 'luke' => [], 'lisa' => [], 'andy' => []],
@@ -34,6 +36,16 @@ foreach ($people as $person => $caches) {
     for ($i = 0; $i < count($caches); $i++) {
         if (isset($waypoints[$caches[$i]])) {
             $data['caches'][$i] = $waypoints[$caches[$i]];
+            $lat = new C($waypoints[$caches[$i]]['lat']);
+            $lon = new C($waypoints[$caches[$i]]['lon']);
+            $lat->setParser(new DMS());
+            $lon->setParser(new DMS());
+            list($latH, $latM, $latS) = explode(' ', (string)$lat);
+            list($lonH, $lonM, $lonS) = explode(' ', (string)$lon);
+            $data['caches'][$i]['ddm'] = sprintf('%s %d° %00.3F %s %d° %00.3F',
+                ($latH < 0 ? 'S' : 'N'), $latH, ($latM + ($latS/60)),
+                ($lonH < 0 ? 'W' : 'E'), $lonH, ($lonM + ($lonS/60))
+            );
         } else {
             $data['caches'][$i] = ['id' => $caches[$i]];
         }
@@ -129,7 +141,7 @@ $toKilometres = new KM();
                     <li>
                         <a href="https://coord.info/<?php echo $cache['id']; ?>" target="_blank"><?php echo !empty($cache['name']) ? htmlentities($cache['name'], ENT_COMPAT, 'utf-8') : $cache['id']; ?></a>
                         <? if (isset($cache['lat'])): ?>
-                        <p><b><?php echo $cache['lat']; ?> / <?php echo $cache['lon']; ?><!-- N 50° 50.040 E 000° 09.880 --></b><br/><?php echo $cache['id']; ?></p>
+                        <p><b><?php echo $cache['ddm']; ?></b><br/><?php echo $cache['id']; ?></p>
                         <? endif; ?>
                     </li>
                 <?php endforeach; ?>
