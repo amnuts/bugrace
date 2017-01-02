@@ -1,0 +1,5 @@
+{
+  "require": {
+    "treffynnon/navigator": "1.*"
+  }
+}

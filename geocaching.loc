@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<loc version="1.0" src="Groundspeak">
+<waypoint>
+	<name id="GC54KRM"><![CDATA[Cuckmere Valley travel bug Hotel by Downsman_James]]>
+</name>
+<coord lat="50.8085" lon="0.171933"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC54KRM</link>
+<difficulty>1.5</difficulty>
+<terrain>2</terrain>
+<container>3</container>
+</waypoint><waypoint>
+	<name id="GCXCG6"><![CDATA[Long Man by The Long Man Trackers]]>
+</name>
+<coord lat="50.811533" lon="0.187533"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GCXCG6</link>
+<difficulty>1</difficulty>
+<terrain>2</terrain>
+<container>3</container>
+</waypoint><waypoint>
+	<name id="GC56JM7"><![CDATA[Surprisingly Large by Downsman_James]]>
+</name>
+<coord lat="50.800917" lon="0.163783"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC56JM7</link>
+<difficulty>2</difficulty>
+<terrain>2</terrain>
+<container>3</container>
+</waypoint><waypoint>
+	<name id="GC6N2Q3"><![CDATA[The Hustler by Vimmes]]>
+</name>
+<coord lat="50.856167" lon="0.224483"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC6N2Q3</link>
+<difficulty>3</difficulty>
+<terrain>2.5</terrain>
+<container>4</container>
+</waypoint></loc>
