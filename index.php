@@ -104,15 +104,27 @@ $toKilometres = new KM();
 
 <main>
     <div class="row">
+        <div class="small-12 columns text-center" id="distance-toggler">
+            distances in <a href="#miles" class="selected">miles</a> / <a href="#km">km</a>
+        </div>
+
         <?php foreach ($people as $person => $data): ?>
+        <?php $tM = $toMiles->convert($data['travelled']); ?>
+        <?php $tKM = $toKilometres->convert($data['travelled']); ?>
         <div class="large-3 medium-6 small-12 columns">
             <div class="card">
                 <aside><span><?php echo ucfirst($person); ?></span></aside>
                 <img src="img/<?php echo $person; ?>.png" />
                 <div>
                     <aside>
-                        <span><?php printf('%.02d', $toMiles->convert($data['travelled'])); ?></span>
-                        <span>mile<?php echo $toMiles->convert($data['travelled']) == 1 ? '' : 's'; ?></span>
+                        <span data-distance
+                              data-miles="<?php echo !$tM ? '0' : sprintf('%.02f', $tM); ?>"
+                              data-km="<?php echo !$tKM ? '0' : sprintf('%.02f', $tKM); ?>"
+                        ><?php echo !$tM ? '0' : sprintf('%.02f', $tM); ?></span>
+                        <span data-distance
+                              data-miles="mile<?php echo $tM == 1 ? '' : 's'; ?>"
+                              data-km="km"
+                        >mile<?php echo $tM == 1 ? '' : 's'; ?></span>
                         <?php if ($data['travelled'] && $data['travelled'] == $maxTravelled): ?>
                         <span class="fa-stack winner-left">
                             <i class="fa fa-certificate fa-spin fa-fw fa-stack-2x"></i>
@@ -135,8 +147,15 @@ $toKilometres = new KM();
             <?php if (!empty($data['caches'])): ?>
             <ol class="trail hide-for-small-only">
                 <?php foreach ($data['caches'] as $i => $cache): ?>
+                    <?php $tM = $toMiles->convert($cache['travelled']); ?>
+                    <?php $tKM = $toKilometres->convert($cache['travelled']); ?>
                     <? if ($i): ?>
-                    <aside><span><?php echo $cache['travelled'] ? sprintf('%.02dm', $toMiles->convert($cache['travelled'])) : '??'; ?></span></aside>
+                    <aside>
+                        <span data-distance
+                              data-miles="<?php echo $cache['travelled'] ? sprintf('%.02f', $tM).'<br/>m' : '??'; ?>"
+                              data-km="<?php echo $cache['travelled'] ? sprintf('%.02f', $tKM).'<br/>km' : '??'; ?>"
+                        ><?php echo $cache['travelled'] ? sprintf('%.02f', $tM).'<br/>m' : '??'; ?></span>
+                    </aside>
                     <? endif; ?>
                     <li>
                         <a href="https://coord.info/<?php echo $cache['id']; ?>" target="_blank"><?php

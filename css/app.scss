@@ -186,6 +186,7 @@ ol.trail {
       border-radius: 50%;
       justify-content: center;
       align-items: center;
+      line-height: 0.6rem;
     }
   }
 }
@@ -222,6 +223,19 @@ footer {
       > img {
         margin-top: 1rem;
       }
+    }
+  }
+}
+
+#distance-toggler {
+  padding: 0.3rem 0;
+  color: $divider-color;
+  > a {
+    border-radius: 4px;
+    &.selected {
+      padding: 3px 5px;
+      background-color: lighten($divider-color, 15);
+      color: $primary-text-color;
     }
   }
 }
