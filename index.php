@@ -139,9 +139,11 @@ $toKilometres = new KM();
                     <aside><span><?php echo $cache['travelled'] ? sprintf('%.02dm', $toMiles->convert($cache['travelled'])) : '??'; ?></span></aside>
                     <? endif; ?>
                     <li>
-                        <a href="https://coord.info/<?php echo $cache['id']; ?>" target="_blank"><?php echo !empty($cache['name']) ? htmlentities($cache['name'], ENT_COMPAT, 'utf-8') : $cache['id']; ?></a>
+                        <a href="https://coord.info/<?php echo $cache['id']; ?>" target="_blank"><?php
+                            echo !empty($cache['name']) ? htmlentities($cache['name'], ENT_COMPAT, 'utf-8') : $cache['id'];
+                        ?></a>
                         <? if (isset($cache['lat'])): ?>
-                        <p><b><?php echo $cache['ddm']; ?></b><br/><?php echo $cache['id']; ?></p>
+                        <p><b title="<?php echo "Lat/Long: {$cache['lat']}, {$cache['lon']}"; ?>"><?php echo $cache['ddm']; ?></b><br/><?php echo $cache['id']; ?></p>
                         <? endif; ?>
                     </li>
                 <?php endforeach; ?>
