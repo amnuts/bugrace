@@ -158,6 +158,7 @@ $toKilometres = new KM();
                     </aside>
                     <? endif; ?>
                     <li>
+                        <?php if ($i == $data['visited'] - 1): ?><p class="currently">currently at</p><?php endif; ?>
                         <a href="https://coord.info/<?php echo $cache['id']; ?>" target="_blank"><?php
                             echo !empty($cache['name']) ? htmlentities($cache['name'], ENT_COMPAT, 'utf-8') : $cache['id'];
                         ?></a>

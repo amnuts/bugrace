@@ -160,6 +160,10 @@ ol.trail {
     > p {
       font-size: .8rem;
       margin:0;
+      &.currently {
+        color: $divider-color;
+        font-size: 0.7rem;
+      }
     }
   }
   > aside {
