@@ -145,19 +145,19 @@ $toKilometres = new KM();
                 </div>
             </div>
             <?php if (!empty($data['caches'])): ?>
-            <ol class="trail hide-for-small-only">
+            <ol class="trail">
                 <?php foreach ($data['caches'] as $i => $cache): ?>
                     <?php $tM = $toMiles->convert($cache['travelled']); ?>
                     <?php $tKM = $toKilometres->convert($cache['travelled']); ?>
                     <? if ($i): ?>
-                    <aside>
+                    <aside class="hide-for-small-only">
                         <span data-distance
                               data-miles="<?php echo $cache['travelled'] ? sprintf('%.02f', $tM).'<br/>m' : '??'; ?>"
                               data-km="<?php echo $cache['travelled'] ? sprintf('%.02f', $tKM).'<br/>km' : '??'; ?>"
                         ><?php echo $cache['travelled'] ? sprintf('%.02f', $tM).'<br/>m' : '??'; ?></span>
                     </aside>
                     <? endif; ?>
-                    <li>
+                    <li<?php if ($i < $data['visited'] - 1): ?> class="hide-for-small-only"<?php endif; ?>>
                         <?php if ($i == $data['visited'] - 1): ?><p class="currently">currently at</p><?php endif; ?>
                         <a href="https://coord.info/<?php echo $cache['id']; ?>" target="_blank"><?php
                             echo !empty($cache['name']) ? htmlentities($cache['name'], ENT_COMPAT, 'utf-8') : $cache['id'];
