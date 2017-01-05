@@ -78,6 +78,11 @@ $toKilometres = new KM();
     <link rel="stylesheet" href="css/foundation.min.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="stylesheet" href="css/app.css">
+    <meta property="og:url" content="http://bugrace.amnuts.com/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Geocaching Travel Bug Race" />
+    <meta property="og:description" content="Help our bugs travel the world" />
+    <meta property="og:image" content="http://bugrace.amnuts.com/og-image.jpg" />
 </head>
 <body>
 
