@@ -27,17 +27,18 @@ if (file_exists(__DIR__.'/geocaching.loc')) {
 }
 
 $maxTravelled = $maxVisited = 0;
-foreach ($people as $person => $caches) {
+foreach ($people as $person => $cacheData) {
     $data = [
+        'bug'       => @$cacheData['bug'],
         'caches'    => [],
         'visited'   => 0,
         'travelled' => 0
     ];
-    for ($i = 0; $i < count($caches); $i++) {
-        if (isset($waypoints[$caches[$i]])) {
-            $data['caches'][$i] = $waypoints[$caches[$i]];
-            $lat = new C($waypoints[$caches[$i]]['lat']);
-            $lon = new C($waypoints[$caches[$i]]['lon']);
+    for ($i = 0; $i < count($cacheData['caches']); $i++) {
+        if (isset($waypoints[$cacheData['caches'][$i]])) {
+            $data['caches'][$i] = $waypoints[$cacheData['caches'][$i]];
+            $lat = new C($waypoints[$cacheData['caches'][$i]]['lat']);
+            $lon = new C($waypoints[$cacheData['caches'][$i]]['lon']);
             $lat->setParser(new DMS());
             $lon->setParser(new DMS());
             list($latH, $latM, $latS) = explode(' ', (string)$lat);
@@ -47,7 +48,7 @@ foreach ($people as $person => $caches) {
                 ($lonH < 0 ? 'W' : 'E'), $lonH, ($lonM + ($lonS/60))
             );
         } else {
-            $data['caches'][$i] = ['id' => $caches[$i]];
+            $data['caches'][$i] = ['id' => $cacheData['caches'][$i]];
         }
         $data['caches'][$i]['travelled'] = 0;
         if ($i && isset($data['caches'][$i]['lat']) && isset($data['caches'][$i-1]['lat'])) {
@@ -151,6 +152,11 @@ $toKilometres = new KM();
             </div>
             <?php if (!empty($data['caches'])): ?>
             <ol class="trail">
+                <?php if (!empty($data['bug'])): ?>
+                <span>
+                    <a href="https://coord.info/<?= $data['bug']; ?>" target="_blank"><i class="fa fa-fw fa-bug"></i> <?= $data['bug']; ?></a>
+                </span>
+                <?php endif; ?>
                 <?php foreach ($data['caches'] as $i => $cache): ?>
                     <?php $tM = $toMiles->convert($cache['travelled']); ?>
                     <?php $tKM = $toKilometres->convert($cache['travelled']); ?>

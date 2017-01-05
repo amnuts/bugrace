@@ -152,6 +152,10 @@ ol.trail {
   list-style: none;
   margin: 0;
   text-align: center;
+  > span {
+    display: block;
+    margin-bottom: 1rem;
+  }
   > li {
     font-size: 0.844rem;
     > a {
