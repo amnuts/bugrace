@@ -82,7 +82,7 @@ $toKilometres = new KM();
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Geocaching Travel Bug Race" />
     <meta property="og:description" content="Help our bugs travel the world" />
-    <meta property="og:image" content="http://bugrace.amnuts.com/og-image.jpg" />
+    <meta property="og:image" content="http://bugrace.amnuts.com/img/og-image.jpg" />
 </head>
 <body>
 
