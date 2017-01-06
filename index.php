@@ -26,7 +26,7 @@ if (file_exists(__DIR__.'/geocaching.loc')) {
     }
 }
 
-$maxTravelled = $maxVisited = 0;
+$maxTravelled = $maxVisited = $sameTravelled = $sameVisited = 0;
 foreach ($people as $person => $cacheData) {
     $data = [
         'bug'       => @$cacheData['bug'],
@@ -62,6 +62,12 @@ foreach ($people as $person => $cacheData) {
     $data['visited'] = count($data['caches']);
     $maxVisited = max($maxVisited, $data['visited']);
     $maxTravelled = max($maxTravelled, $data['travelled']);
+    if ($maxVisited == $data['visited']) {
+        ++$sameVisited;
+    }
+    if ($maxTravelled == $data['travelled']) {
+        ++$sameTravelled;
+    }
     $people[$person] = $data;
 }
 
@@ -132,7 +138,7 @@ $toKilometres = new KM();
                               data-km="km"
                         >mile<?php echo $tM == 1 ? '' : 's'; ?></span>
                         <?php if ($data['travelled'] && $data['travelled'] == $maxTravelled): ?>
-                        <span class="fa-stack winner-left">
+                        <span class="fa-stack winner-left <?= ($sameTravelled >= 3 ? 'bronze' : ($sameTravelled == 2 ? 'silver' : 'gold')); ?>">
                             <i class="fa fa-certificate fa-spin fa-fw fa-stack-2x"></i>
                             <i class="fa fa-trophy fa-fw fa-stack-1x"></i>
                         </span>
@@ -142,7 +148,7 @@ $toKilometres = new KM();
                         <span><?php echo $data['visited']; ?></span>
                         <span>cache<?php echo $data['visited'] == 1 ? '' : 's'; ?></span>
                         <?php if ($data['visited'] > 1 && $data['visited'] == $maxVisited): ?>
-                        <span class="fa-stack winner-right">
+                        <span class="fa-stack winner-right <?= ($sameVisited >= 3 ? 'bronze' : ($sameVisited == 2 ? 'silver' : 'gold')); ?>">
                             <i class="fa fa-certificate fa-spin fa-fw fa-stack-2x"></i>
                             <i class="fa fa-trophy fa-fw fa-stack-1x"></i>
                         </span>

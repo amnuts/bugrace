@@ -6,6 +6,9 @@ $accent-color:         #FFC107;
 $primary-text-color:   #212121;
 $secondary-text-color: #757575;
 $divider-color:        #BDBDBD;
+$golden-trophy:        #D39E00;
+$silver-trophy:        #919191;
+$bronze-trophy:        #A45015;
 
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,400');
 
@@ -131,10 +134,28 @@ main {
     position: absolute;
     top: -10px;
     line-height: 2em;
-    > i {
-      &:first-of-type {
-        color: darken($accent-color, 10);
+    &.gold {
+      > i {
+        &:first-of-type {
+          color: $golden-trophy;
+        }
       }
+    }
+    &.silver {
+      > i {
+        &:first-of-type {
+          color: $silver-trophy;
+        }
+      }
+    }
+    &.bronze {
+      > i {
+        &:first-of-type {
+          color: $bronze-trophy;
+        }
+      }
+    }
+    > i {
       &:last-of-type {
         color: #ffffff;
       }
