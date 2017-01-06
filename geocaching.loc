@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <loc version="1.0" src="Groundspeak">
 <waypoint>
+	<name id="GC5Y27Q"><![CDATA[Alfriston Wander by Vimmes]]>
+</name>
+<coord lat="50.811083" lon="0.143867"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC5Y27Q</link>
+<difficulty>1.5</difficulty>
+<terrain>3</terrain>
+<container>8</container>
+</waypoint><waypoint>
 	<name id="GC54KRM"><![CDATA[Cuckmere Valley travel bug Hotel by Downsman_James]]>
 </name>
 <coord lat="50.8085" lon="0.171933"/>
