@@ -26,7 +26,7 @@ if (file_exists(__DIR__.'/geocaching.loc')) {
     }
 }
 
-$maxTravelled = $maxVisited = $sameTravelled = $sameVisited = 0;
+$maxTravelled = $maxVisited = 0;
 foreach ($people as $person => $cacheData) {
     $data = [
         'bug'       => @$cacheData['bug'],
@@ -62,13 +62,17 @@ foreach ($people as $person => $cacheData) {
     $data['visited'] = count($data['caches']);
     $maxVisited = max($maxVisited, $data['visited']);
     $maxTravelled = max($maxTravelled, $data['travelled']);
-    if ($maxVisited == $data['visited']) {
+    $people[$person] = $data;
+}
+
+$sameTravelled = $sameVisited = 0;
+foreach ($people as $person => $cacheData) {
+    if ($maxVisited == $cacheData['visited']) {
         ++$sameVisited;
     }
-    if ($maxTravelled == $data['travelled']) {
+    if ($maxTravelled == $cacheData['travelled']) {
         ++$sameTravelled;
     }
-    $people[$person] = $data;
 }
 
 $toMiles = new M();
