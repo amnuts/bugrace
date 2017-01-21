@@ -28,6 +28,15 @@
 <terrain>2</terrain>
 <container>3</container>
 </waypoint><waypoint>
+	<name id="GC5RAKQ"><![CDATA[Pyrtle Springs by sevenof8]]>
+</name>
+<coord lat="51.714783" lon="-0.8278"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC5RAKQ</link>
+<difficulty>2</difficulty>
+<terrain>3</terrain>
+<container>8</container>
+</waypoint><waypoint>
 	<name id="GC56JM7"><![CDATA[Surprisingly Large by Downsman_James]]>
 </name>
 <coord lat="50.800917" lon="0.163783"/>
