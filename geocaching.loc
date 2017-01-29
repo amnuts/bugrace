@@ -54,4 +54,13 @@
 <difficulty>3</difficulty>
 <terrain>2.5</terrain>
 <container>4</container>
+</waypoint><waypoint>
+	<name id="GC6XJ1R"><![CDATA[University of Sussex Tree Cache by JellyfishGFP]]>
+</name>
+<coord lat="50.866317" lon="-0.08205"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC6XJ1R</link>
+<difficulty>2.5</difficulty>
+<terrain>3</terrain>
+<container>3</container>
 </waypoint></loc>
