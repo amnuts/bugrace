@@ -62,6 +62,7 @@ foreach ($people as $person => $cacheData) {
     $data['visited'] = count($data['caches']);
     $maxVisited = max($maxVisited, $data['visited']);
     $maxTravelled = max($maxTravelled, $data['travelled']);
+    $data['caches'] = array_reverse($data['caches']);
     $people[$person] = $data;
 }
 
@@ -170,16 +171,8 @@ $toKilometres = new KM();
                 <?php foreach ($data['caches'] as $i => $cache): ?>
                     <?php $tM = $toMiles->convert($cache['travelled']); ?>
                     <?php $tKM = $toKilometres->convert($cache['travelled']); ?>
-                    <? if ($i): ?>
-                    <aside class="hide-for-small-only">
-                        <span data-distance
-                              data-miles="<?php echo $cache['travelled'] ? sprintf('%.02f', $tM).'<br/>m' : '??'; ?>"
-                              data-km="<?php echo $cache['travelled'] ? sprintf('%.02f', $tKM).'<br/>km' : '??'; ?>"
-                        ><?php echo $cache['travelled'] ? sprintf('%.02f', $tM).'<br/>m' : '??'; ?></span>
-                    </aside>
-                    <? endif; ?>
-                    <li<?php if ($i < $data['visited'] - 1): ?> class="hide-for-small-only"<?php endif; ?>>
-                        <?php if ($i == $data['visited'] - 1): ?><p class="currently">currently at</p><?php endif; ?>
+                    <li<?php if ($i): ?> class="hide-for-small-only"<?php endif; ?>>
+                        <?php if (!$i): ?><p class="currently">currently at</p><?php endif; ?>
                         <a href="https://coord.info/<?php echo $cache['id']; ?>" target="_blank"><?php
                             echo !empty($cache['name']) ? htmlentities($cache['name'], ENT_COMPAT, 'utf-8') : $cache['id'];
                         ?></a>
@@ -187,6 +180,14 @@ $toKilometres = new KM();
                         <p><b title="<?php echo "Lat/Long: {$cache['lat']}, {$cache['lon']}"; ?>"><?php echo $cache['ddm']; ?></b><br/><?php echo $cache['id']; ?></p>
                         <? endif; ?>
                     </li>
+                    <? if ($cache['travelled']): ?>
+                        <aside class="hide-for-small-only">
+                        <span data-distance
+                              data-miles="<?php echo $cache['travelled'] ? sprintf('%.02f', $tM).'<br/>m' : '??'; ?>"
+                              data-km="<?php echo $cache['travelled'] ? sprintf('%.02f', $tKM).'<br/>km' : '??'; ?>"
+                        ><?php echo $cache['travelled'] ? sprintf('%.02f', $tM).'<br/>m' : '??'; ?></span>
+                        </aside>
+                    <? endif; ?>
                 <?php endforeach; ?>
             </ol>
             <? endif; ?>
