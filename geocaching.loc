@@ -37,6 +37,15 @@
 <terrain>3</terrain>
 <container>8</container>
 </waypoint><waypoint>
+	<name id="GC1Q1DK"><![CDATA[Spot the Island by longlady]]>
+</name>
+<coord lat="51.0590333333333" lon="-4.15496666666667"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC1Q1DK</link>
+<difficulty>1</difficulty>
+<terrain>1.5</terrain>
+<container>8</container>
+</waypoint><waypoint>
 	<name id="GC56JM7"><![CDATA[Surprisingly Large by Downsman_James]]>
 </name>
 <coord lat="50.800917" lon="0.163783"/>
