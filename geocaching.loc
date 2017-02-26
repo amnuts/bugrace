@@ -19,6 +19,15 @@
 <terrain>2</terrain>
 <container>3</container>
 </waypoint><waypoint>
+	<name id="GC3W0GA"><![CDATA[Derwen Dawdle #2 - Clay Pipe by Bayblue]]>
+</name>
+<coord lat="53.309417" lon="-3.7847"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC3W0GA</link>
+<difficulty>1.5</difficulty>
+<terrain>1.5</terrain>
+<container>8</container>
+</waypoint><waypoint>
 	<name id="GCXCG6"><![CDATA[Long Man by The Long Man Trackers]]>
 </name>
 <coord lat="50.811533" lon="0.187533"/>
