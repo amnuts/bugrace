@@ -99,4 +99,13 @@
 <difficulty>2.5</difficulty>
 <terrain>3</terrain>
 <container>3</container>
+</waypoint><waypoint>
+	<name id="GC2FJDD"><![CDATA[Woggle Walk - Waterfall by JUSTHEJOB]]>
+</name>
+<coord lat="53.134983" lon="-3.862933"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC2FJDD</link>
+<difficulty>1.5</difficulty>
+<terrain>1.5</terrain>
+<container>3</container>
 </waypoint></loc>
