@@ -81,7 +81,7 @@ $toKilometres = new KM();
 
 ?>
 <!doctype html>
-<html class="no-js" lang="en" dir="ltr">
+<html class="no-js" lang="en" dir="ltr" prefix="og: http://ogp.me/ns#">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -90,6 +90,8 @@ $toKilometres = new KM();
     <link rel="stylesheet" href="css/foundation.min.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="stylesheet" href="css/app.css">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:creator" content="@acollington" />
     <meta property="og:url" content="http://bugrace.amnuts.com/" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Geocaching Travel Bug Race" />
