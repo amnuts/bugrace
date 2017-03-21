@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <loc version="1.0" src="Groundspeak">
 <waypoint>
+	<name id="GC2R35D"><![CDATA[365 Challenge by BaSHful]]>
+</name>
+<coord lat="51.204933" lon="-0.3244"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC2R35D</link>
+<difficulty>5</difficulty>
+<terrain>2.5</terrain>
+<container>2</container>
+</waypoint><waypoint>
 	<name id="GC5Y27Q"><![CDATA[Alfriston Wander by Vimmes]]>
 </name>
 <coord lat="50.811083" lon="0.143867"/>
@@ -9,6 +18,33 @@
 <difficulty>1.5</difficulty>
 <terrain>3</terrain>
 <container>8</container>
+</waypoint><waypoint>
+	<name id="GC7286X"><![CDATA[Beaver Fever - Slines Oak Pond by HouseOfDragons]]>
+</name>
+<coord lat="51.3039" lon="-0.032233"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC7286X</link>
+<difficulty>2</difficulty>
+<terrain>2.5</terrain>
+<container>2</container>
+</waypoint><waypoint>
+	<name id="GC4V2DE"><![CDATA[Boundless Box by Norahsnorth]]>
+</name>
+<coord lat="51.1444" lon="-0.705833"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC4V2DE</link>
+<difficulty>1.5</difficulty>
+<terrain>2</terrain>
+<container>8</container>
+</waypoint><waypoint>
+	<name id="GC4DRJF"><![CDATA[Church Micro 754...Shamley Green by ===sgb]]>
+</name>
+<coord lat="51.1802" lon="-0.523217"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC4DRJF</link>
+<difficulty>1</difficulty>
+<terrain>1.5</terrain>
+<container>2</container>
 </waypoint><waypoint>
 	<name id="GC54KRM"><![CDATA[Cuckmere Valley travel bug Hotel by Downsman_James]]>
 </name>
@@ -28,6 +64,42 @@
 <terrain>1.5</terrain>
 <container>8</container>
 </waypoint><waypoint>
+	<name id="GC6VYGB"><![CDATA[Dok by geoff2010]]>
+</name>
+<coord lat="51.207967" lon="0.07875"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC6VYGB</link>
+<difficulty>1</difficulty>
+<terrain>2</terrain>
+<container>3</container>
+</waypoint><waypoint>
+	<name id="GC6KNPH"><![CDATA[Geocachers' Playground by -KROP-]]>
+</name>
+<coord lat="51.426667" lon="-0.030833"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC6KNPH</link>
+<difficulty>1</difficulty>
+<terrain>3</terrain>
+<container>8</container>
+</waypoint><waypoint>
+	<name id="GC1DKZ6"><![CDATA[Grain Tower Battery reclaimed. by Hen & Jen]]>
+</name>
+<coord lat="51.45155" lon="0.731217"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC1DKZ6</link>
+<difficulty>3.5</difficulty>
+<terrain>3.5</terrain>
+<container>2</container>
+</waypoint><waypoint>
+	<name id="GC1ZAHB"><![CDATA[JaceyB's Blue Ice BONUS 1 by jaceyb99]]>
+</name>
+<coord lat="51.117117" lon="-0.331033"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC1ZAHB</link>
+<difficulty>1</difficulty>
+<terrain>2.5</terrain>
+<container>3</container>
+</waypoint><waypoint>
 	<name id="GCXCG6"><![CDATA[Long Man by The Long Man Trackers]]>
 </name>
 <coord lat="50.811533" lon="0.187533"/>
@@ -36,6 +108,24 @@
 <difficulty>1</difficulty>
 <terrain>2</terrain>
 <container>3</container>
+</waypoint><waypoint>
+	<name id="GC7261Z"><![CDATA[PP-03 The Bodhi Tree by PawPatrol8]]>
+</name>
+<coord lat="51.351131" lon="-0.004897"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC7261Z</link>
+<difficulty>3</difficulty>
+<terrain>2.5</terrain>
+<container>2</container>
+</waypoint><waypoint>
+	<name id="GC728A7"><![CDATA[PP-04 The Yew Tree  by PawPatrol8]]>
+</name>
+<coord lat="51.354353" lon="-0.007926"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC728A7</link>
+<difficulty>2</difficulty>
+<terrain>3</terrain>
+<container>2</container>
 </waypoint><waypoint>
 	<name id="GC5RAKQ"><![CDATA[Pyrtle Springs by sevenof8]]>
 </name>
@@ -55,6 +145,15 @@
 <terrain>2</terrain>
 <container>8</container>
 </waypoint><waypoint>
+	<name id="GC3T7N1"><![CDATA[S.S. Richard Montgomery by Plugster-uk]]>
+</name>
+<coord lat="51.465833" lon="0.719717"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC3T7N1</link>
+<difficulty>2</difficulty>
+<terrain>2.5</terrain>
+<container>8</container>
+</waypoint><waypoint>
 	<name id="GC1Q1DK"><![CDATA[Spot the Island by longlady]]>
 </name>
 <coord lat="51.0590333333333" lon="-4.15496666666667"/>
@@ -63,6 +162,42 @@
 <difficulty>1</difficulty>
 <terrain>1.5</terrain>
 <container>8</container>
+</waypoint><waypoint>
+	<name id="GC726YK"><![CDATA[Statsfield A : 4.5/3.5 - Dead or Alive by HouseOfDragons]]>
+</name>
+<coord lat="51.286567" lon="-0.022467"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC726YK</link>
+<difficulty>4.5</difficulty>
+<terrain>3.5</terrain>
+<container>2</container>
+</waypoint><waypoint>
+	<name id="GC701DJ"><![CDATA[Statsfield C 2.0 / 2.0 Mr Tumnus by Mr S Vimes]]>
+</name>
+<coord lat="51.316517" lon="-0.026083"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC701DJ</link>
+<difficulty>2</difficulty>
+<terrain>2</terrain>
+<container>4</container>
+</waypoint><waypoint>
+	<name id="GC71VWE"><![CDATA[Statsfield D : 1.5/3.5 - Yew know yew love them! by HouseOfDragons]]>
+</name>
+<coord lat="51.30455" lon="0.032667"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC71VWE</link>
+<difficulty>1.5</difficulty>
+<terrain>3.5</terrain>
+<container>2</container>
+</waypoint><waypoint>
+	<name id="GC71M4B"><![CDATA[Statsfield D 2.0/ 2.5 Vipers Pit by Mr S Vimes]]>
+</name>
+<coord lat="51.307683" lon="0.01415"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC71M4B</link>
+<difficulty>2.5</difficulty>
+<terrain>2</terrain>
+<container>2</container>
 </waypoint><waypoint>
 	<name id="GC56JM7"><![CDATA[Surprisingly Large by Downsman_James]]>
 </name>
@@ -81,6 +216,15 @@
 <difficulty>3</difficulty>
 <terrain>2.5</terrain>
 <container>4</container>
+</waypoint><waypoint>
+	<name id="GC6V2G8"><![CDATA[The Magic Faraway Tree - Extreme Tree Climb by Rich_F]]>
+</name>
+<coord lat="51.22325" lon="-0.1877"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC6V2G8</link>
+<difficulty>5</difficulty>
+<terrain>5</terrain>
+<container>8</container>
 </waypoint><waypoint>
 	<name id="GC5Q9RK"><![CDATA[The Mysterious Flock (NT Trek 1) by NT Arlington Court]]>
 </name>
