@@ -154,6 +154,15 @@
 <terrain>2.5</terrain>
 <container>8</container>
 </waypoint><waypoint>
+	<name id="GC71JV5"><![CDATA[Sanderstead Sunset by mr matto]]>
+</name>
+<coord lat="51.335917" lon="-0.07765"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC71JV5</link>
+<difficulty>2.5</difficulty>
+<terrain>1.5</terrain>
+<container>8</container>
+</waypoint><waypoint>
 	<name id="GC1Q1DK"><![CDATA[Spot the Island by longlady]]>
 </name>
 <coord lat="51.0590333333333" lon="-4.15496666666667"/>
@@ -181,6 +190,15 @@
 <terrain>2</terrain>
 <container>4</container>
 </waypoint><waypoint>
+	<name id="GC701EP"><![CDATA[Statsfield C 2.5/1.5 Mr & Mrs Beaver by Mr S Vimes]]>
+</name>
+<coord lat="51.314233" lon="-0.02865"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC701EP</link>
+<difficulty>2.5</difficulty>
+<terrain>1.5</terrain>
+<container>8</container>
+</waypoint><waypoint>
 	<name id="GC71VWE"><![CDATA[Statsfield D : 1.5/3.5 - Yew know yew love them! by HouseOfDragons]]>
 </name>
 <coord lat="51.30455" lon="0.032667"/>
@@ -196,6 +214,15 @@
 <type>Geocache</type>
 <link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC71M4B</link>
 <difficulty>2.5</difficulty>
+<terrain>2</terrain>
+<container>2</container>
+</waypoint><waypoint>
+	<name id="GC6H2XT"><![CDATA[Statsfield P : 5/2 - A Geohound's Tale by HouseOfDragons]]>
+</name>
+<coord lat="51.294617" lon="0.016367"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC6H2XT</link>
+<difficulty>5</difficulty>
 <terrain>2</terrain>
 <container>2</container>
 </waypoint><waypoint>

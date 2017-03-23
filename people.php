@@ -18,7 +18,8 @@ return [
         'caches' => [
             'GC6N2Q3', 'GC6XJ1R', 'GC70EF9',
             'GC701DJ', 'GC71M4B', 'GC6VYGB', 'GC4DRJF', 'GC2R35D', 'GC1ZAHB', 'GC71VWE', 'GC6KNPH',
-            'GC4V2DE', 'GC6V2G8', 'GC7261Z', 'GC726YK', 'GC728A7', 'GC7286X', 'GC1DKZ6', 'GC3T7N1'
+            'GC4V2DE', 'GC6V2G8', 'GC7261Z', 'GC726YK', 'GC728A7', 'GC7286X', 'GC1DKZ6', 'GC3T7N1',
+            'GC701EP', 'GC6H2XT', 'GC71JV5'
         ]
     ],
     'andy'  => [
