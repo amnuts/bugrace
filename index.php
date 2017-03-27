@@ -123,8 +123,13 @@ $toKilometres = new KM();
 
 <main>
     <div class="row">
-        <div class="small-12 columns text-center" id="distance-toggler">
-            distances in <a href="#miles" class="selected">miles</a> / <a href="#km">km</a>
+        <div class="row">
+            <div class="small-12 medium-6 columns text-center">
+                <div id="distance-toggler">distances in <a href="#miles" class="selected">miles</a> / <a href="#km">km</a></div>
+            </div>
+            <div class="small-12 medium-6 columns text-center">
+                <div id="location-toggler">location as <a href="#ne" class="selected">north/easting</a> / <a href="#ll">longitude/latitude</a>
+            </div>
         </div>
 
         <?php foreach ($people as $person => $data): ?>
@@ -179,7 +184,7 @@ $toKilometres = new KM();
                             echo !empty($cache['name']) ? htmlentities($cache['name'], ENT_COMPAT, 'utf-8') : $cache['id'];
                         ?></a>
                         <? if (isset($cache['lat'])): ?>
-                        <p><b title="<?php echo "Lat/Long: {$cache['lat']}, {$cache['lon']}"; ?>"><?php echo $cache['ddm']; ?></b><br/><?php echo $cache['id']; ?></p>
+                        <p><b data-location data-ne="<?php echo $cache['ddm']; ?>" data-ll="<?php echo "{$cache['lat']}, {$cache['lon']}"; ?>"><?php echo $cache['ddm']; ?></b><br/><?php echo $cache['id']; ?></p>
                         <? endif; ?>
                     </li>
                     <? if ($cache['travelled']): ?>
