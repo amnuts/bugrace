@@ -19,6 +19,15 @@
 <terrain>3</terrain>
 <container>8</container>
 </waypoint><waypoint>
+	<name id="GC72BKP"><![CDATA[Beaver Fever - Bramley Bank by HouseOfDragons]]>
+</name>
+<coord lat="51.3563" lon="-0.0603"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC72BKP</link>
+<difficulty>2</difficulty>
+<terrain>2.5</terrain>
+<container>2</container>
+</waypoint><waypoint>
 	<name id="GC7286X"><![CDATA[Beaver Fever - Slines Oak Pond by HouseOfDragons]]>
 </name>
 <coord lat="51.3039" lon="-0.032233"/>
@@ -44,6 +53,15 @@
 <link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC4DRJF</link>
 <difficulty>1</difficulty>
 <terrain>1.5</terrain>
+<container>2</container>
+</waypoint><waypoint>
+	<name id="GC63NZW"><![CDATA[Church Micro 8433...Thornton Heath - St Barnabas by Boer&Brit]]>
+</name>
+<coord lat="51.390267" lon="-0.1093"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC63NZW</link>
+<difficulty>2.5</difficulty>
+<terrain>1</terrain>
 <container>2</container>
 </waypoint><waypoint>
 	<name id="GC54KRM"><![CDATA[Cuckmere Valley travel bug Hotel by Downsman_James]]>
@@ -270,6 +288,15 @@
 <difficulty>2.5</difficulty>
 <terrain>3</terrain>
 <container>3</container>
+</waypoint><waypoint>
+	<name id="GC67JFG"><![CDATA[Warnham Way 1 - It's Roundabout Here by Humber Rock and Gravel Horsham]]>
+</name>
+<coord lat="51.0884" lon="-0.349467"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC67JFG</link>
+<difficulty>1.5</difficulty>
+<terrain>1</terrain>
+<container>2</container>
 </waypoint><waypoint>
 	<name id="GC2FJDD"><![CDATA[Woggle Walk - Waterfall by JUSTHEJOB]]>
 </name>
