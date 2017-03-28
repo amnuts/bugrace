@@ -128,7 +128,7 @@ $toKilometres = new KM();
                 <div id="distance-toggler">distances in <a href="#miles" class="selected">miles</a> / <a href="#km">km</a></div>
             </div>
             <div class="small-12 medium-6 columns text-center">
-                <div id="location-toggler">location as <a href="#ne" class="selected">north/easting</a> / <a href="#ll">longitude/latitude</a>
+                <div id="location-toggler">location as <a href="#ne" class="selected">north/easting</a> / <a href="#ll">longitude/latitude</a></div>
             </div>
         </div>
 
