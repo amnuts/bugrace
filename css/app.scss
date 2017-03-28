@@ -10,6 +10,36 @@ $golden-trophy:        #D39E00;
 $silver-trophy:        #919191;
 $bronze-trophy:        #A45015;
 
+@mixin small-only {
+  @media screen and (max-width: 39.9375em) {
+    @content;
+  }
+}
+
+@mixin medium-up {
+  @media screen and (min-width: 40em) {
+    @content;
+  }
+}
+
+@mixin medium-only {
+  @media screen and (min-width: 40em) and (max-width: 63.9375em) {
+    @content;
+  }
+}
+
+@mixin large-up {
+  @media screen and (min-width: 64em) {
+    @content;
+  }
+}
+
+@mixin large-only {
+  @media screen and (min-width: 64em) and (max-width: 74.9375em) {
+    @content;
+  }
+}
+
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,400');
 
 .roboto-regular {
@@ -41,14 +71,14 @@ header {
   color: $primary-color-text;
   display: flex;
   align-items: center;
-  @media only screen and (min-width: 40em) {
+  @include medium-up {
     align-items: flex-end;
   }
   h1 {
     font-size:2rem;
     @extend .roboto-regular;
     margin: 1rem 0 0 0;
-    @media screen and (max-width: 39.9375em) {
+    @include small-only {
       text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.4);
     }
   }
@@ -163,9 +193,15 @@ main {
   }
   .winner-left {
     left: -15px;
+    @include small-only {
+      left: -10px;
+    }
   }
   .winner-right {
     right: -15px;
+    @include small-only {
+      right: -10px;
+    }
   }
 }
 
@@ -243,7 +279,7 @@ footer {
   div.columns:last-of-type {
     text-align: right;
   }
-  @media screen and (max-width: 39.9375em) {
+  @include small-only {
     div.columns:first-of-type {
       text-align: center;
     }
