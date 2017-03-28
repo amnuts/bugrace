@@ -239,15 +239,18 @@ ol.trail {
       width:1px;
       border: 0 solid $divider-color;
       border-left-width: 3px;
+      position: relative;
+      left: 20px;
     }
     > span {
-      position: absolute;
+      position: relative;
       background-color: $divider-color;
       color: $primary-color-dark;
       font-size:.68rem;
       width: 40px;
       height: 40px;
       display: flex;
+      left: -2px;
       border-radius: 50%;
       justify-content: center;
       align-items: center;
