@@ -181,6 +181,15 @@
 <terrain>1.5</terrain>
 <container>8</container>
 </waypoint><waypoint>
+	<name id="GC66Q06"><![CDATA[SideTracked - London Victoria by terrapintim]]>
+</name>
+<coord lat="51.494483" lon="-0.142417"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC66Q06</link>
+<difficulty>2</difficulty>
+<terrain>1</terrain>
+<container>2</container>
+</waypoint><waypoint>
 	<name id="GC1Q1DK"><![CDATA[Spot the Island by longlady]]>
 </name>
 <coord lat="51.0590333333333" lon="-4.15496666666667"/>
@@ -252,6 +261,15 @@
 <difficulty>2</difficulty>
 <terrain>2</terrain>
 <container>3</container>
+</waypoint><waypoint>
+	<name id="GC1C1BK"><![CDATA[Symmetry N51 BH1 by BaSHful]]>
+</name>
+<coord lat="51.247517" lon="-0.247517"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC1C1BK</link>
+<difficulty>1.5</difficulty>
+<terrain>1.5</terrain>
+<container>2</container>
 </waypoint><waypoint>
 	<name id="GC6N2Q3"><![CDATA[The Hustler by Vimmes]]>
 </name>
