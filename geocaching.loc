@@ -127,6 +127,24 @@
 <terrain>2</terrain>
 <container>3</container>
 </waypoint><waypoint>
+	<name id="GC5WKJ5"><![CDATA[Oranges and Lemons by 2ndEast]]>
+</name>
+<coord lat="51.513033" lon="-0.114183"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC5WKJ5</link>
+<difficulty>4</difficulty>
+<terrain>1.5</terrain>
+<container>2</container>
+</waypoint><waypoint>
+	<name id="GC33J7M"><![CDATA[PEMM-1 by sollericos]]>
+</name>
+<coord lat="39.7688666666667" lon="2.69801666666667"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC33J7M</link>
+<difficulty>2</difficulty>
+<terrain>2</terrain>
+<container>8</container>
+</waypoint><waypoint>
 	<name id="GC7261Z"><![CDATA[PP-03 The Bodhi Tree by PawPatrol8]]>
 </name>
 <coord lat="51.351131" lon="-0.004897"/>
@@ -189,6 +207,15 @@
 <difficulty>2</difficulty>
 <terrain>1</terrain>
 <container>2</container>
+</waypoint><waypoint>
+	<name id="GC52N53"><![CDATA[Sindry´s View by moritzmaus]]>
+</name>
+<coord lat="39.784817" lon="2.685533"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC52N53</link>
+<difficulty>2</difficulty>
+<terrain>3</terrain>
+<container>3</container>
 </waypoint><waypoint>
 	<name id="GC1Q1DK"><![CDATA[Spot the Island by longlady]]>
 </name>
@@ -297,6 +324,15 @@
 <difficulty>2</difficulty>
 <terrain>3</terrain>
 <container>3</container>
+</waypoint><waypoint>
+	<name id="GC5A7DW"><![CDATA[Trafalgar Square by -KROP-]]>
+</name>
+<coord lat="51.50805" lon="-0.12885"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC5A7DW</link>
+<difficulty>2.5</difficulty>
+<terrain>1.5</terrain>
+<container>6</container>
 </waypoint><waypoint>
 	<name id="GC6XJ1R"><![CDATA[University of Sussex Tree Cache by JellyfishGFP]]>
 </name>
