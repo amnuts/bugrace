@@ -182,7 +182,7 @@ $toKilometres = new KM();
                             echo !empty($cache['name']) ? htmlentities($cache['name'], ENT_COMPAT, 'utf-8') : $cache['id'];
                         ?></a>
                         <? if (isset($cache['lat'])): ?>
-                        <p><b data-location data-ne="<?php echo $cache['ddm']; ?>" data-ll="<?php echo "{$cache['lat']}, {$cache['lon']}"; ?>"><?php echo $cache['ddm']; ?></b><br/><?php echo $cache['id']; ?></p>
+                        <p><b data-location data-ne="<?php echo $cache['ddm']; ?>" data-ll="<?php echo sprintf('%0.6f', $cache['lat']) . ', ' . sprintf('%0.6f', $cache['lon']); ?>"><?php echo $cache['ddm']; ?></b><br/><?php echo $cache['id']; ?></p>
                         <? endif; ?>
                     </li>
                     <? if ($cache['travelled']): ?>
