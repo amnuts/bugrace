@@ -4,7 +4,14 @@ return [
     'rosie' => [
         'bug' => 'TB7T67K',
         'caches' => [
-            'GCXCG6', 'GC5Y27Q', 'GC5Q9RK', 'GC1Q1DK', 'GC3W0GA', 'GC2FJDD'
+            'GCXCG6',  'GC5Y27Q', 'GC5Q9RK', 'GC1Q1DK', 'GC3W0GA', 'GC2FJDD', 'GC5V0X3', 'GC3JR3B',
+            'GCG7Q3',  'GC5QQ3W', 'GC6R0M5', 'GC1AQ1F', 'GC6R0HG', 'GC2EF4X', 'GC6HMY8', 'GC27MXH',
+            'GC63D9A', 'GC37T93', 'GC5JT3J', 'GC3QV9G', 'GC27N02', 'GC61VT0', 'GC79BTW', 'GC72M3V',
+            'GC1KEZZ', 'GC5KNAF', 'GC5JJGZ', 'GC5FPG4', 'GC5EYGJ', 'GC5DT8H', 'GC5DEVZ', 'GC5D126',
+            'GC5BZ7T', 'GC5ATYJ', 'GC59HHE', 'GC52GET', 'GC1Y6QR', 'GC4NFPF', 'GC5RPEJ', 'GC5V0X3',
+            'GC6Q9ZT', 'GC6QA6W', 'GC6QA0Y', 'GC6QJJ8', 'GC6QNYY', 'GC6QA00', 'GC1JX2N', 'GCVKVW',
+            'GC6NFPW', 'GC635N0', 'GC5D1BP', 'GC5AEE4', 'GC43',    'GCJJVZ',  'GCM7R6',  'GCJKTN',
+            'GCE388',  'GC6EJ6E', 'GC797M5', 'GC3Q86T', 'GC2WQFT', 'GC1ZTWW', 'GC3Q86E'
         ]
     ],
     'luke'  => [
