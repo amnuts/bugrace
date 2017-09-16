@@ -244,6 +244,33 @@
 <terrain>1.5</terrain>
 <container>8</container>
 </waypoint><waypoint>
+	<name id="GC6Z63A"><![CDATA[Checker by wowajo3]]>
+</name>
+<coord lat="52.36155" lon="5.73486666666667"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC6Z63A</link>
+<difficulty>5</difficulty>
+<terrain>4.5</terrain>
+<container>8</container>
+</waypoint><waypoint>
+	<name id="GC46NKB"><![CDATA[Church Micro 3359...Hascombe by lamoutarde]]>
+</name>
+<coord lat="51.146133" lon="-0.568833"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC46NKB</link>
+<difficulty>1.5</difficulty>
+<terrain>1.5</terrain>
+<container>8</container>
+</waypoint><waypoint>
+	<name id="GC5K2B6"><![CDATA[Church Micro 7006...Elstead - URC by hofficoffi]]>
+</name>
+<coord lat="51.18465" lon="-0.700317"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC5K2B6</link>
+<difficulty>1.5</difficulty>
+<terrain>1.5</terrain>
+<container>2</container>
+</waypoint><waypoint>
 	<name id="GC4DRJF"><![CDATA[Church Micro 754...Shamley Green by ===sgb]]>
 </name>
 <coord lat="51.1802" lon="-0.523217"/>
@@ -260,6 +287,132 @@
 <link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC63NZW</link>
 <difficulty>2.5</difficulty>
 <terrain>1</terrain>
+<container>2</container>
+</waypoint><waypoint>
+	<name id="GC5VJ16"><![CDATA[CNW #01 Cranleigh North Walk - The Start by lamoutarde]]>
+</name>
+<coord lat="51.162133" lon="-0.4926"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC5VJ16</link>
+<difficulty>2</difficulty>
+<terrain>2</terrain>
+<container>6</container>
+</waypoint><waypoint>
+	<name id="GC5VJ1G"><![CDATA[CNW #02 Cranleigh North Walk by lamoutarde]]>
+</name>
+<coord lat="51.163567" lon="-0.4919"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC5VJ1G</link>
+<difficulty>1.5</difficulty>
+<terrain>2</terrain>
+<container>2</container>
+</waypoint><waypoint>
+	<name id="GC5VJ20"><![CDATA[CNW #03 Cranleigh North Walk by lamoutarde]]>
+</name>
+<coord lat="51.165117" lon="-0.491733"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC5VJ20</link>
+<difficulty>1.5</difficulty>
+<terrain>2</terrain>
+<container>2</container>
+</waypoint><waypoint>
+	<name id="GC5VJ2D"><![CDATA[CNW #04 Cranleigh North Walk by lamoutarde]]>
+</name>
+<coord lat="51.169733" lon="-0.48695"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC5VJ2D</link>
+<difficulty>1.5</difficulty>
+<terrain>2</terrain>
+<container>2</container>
+</waypoint><waypoint>
+	<name id="GC5VJ2X"><![CDATA[CNW #05 Cranleigh North Walk by lamoutarde]]>
+</name>
+<coord lat="51.169917" lon="-0.4831"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC5VJ2X</link>
+<difficulty>1.5</difficulty>
+<terrain>2</terrain>
+<container>8</container>
+</waypoint><waypoint>
+	<name id="GC5VJ3C"><![CDATA[CNW #06 Cranleigh North Walk by lamoutarde]]>
+</name>
+<coord lat="51.168933" lon="-0.479733"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC5VJ3C</link>
+<difficulty>1.5</difficulty>
+<terrain>2</terrain>
+<container>2</container>
+</waypoint><waypoint>
+	<name id="GC5VJ3Y"><![CDATA[CNW #07 Cranleigh North Walk by lamoutarde]]>
+</name>
+<coord lat="51.1682" lon="-0.47685"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC5VJ3Y</link>
+<difficulty>2.5</difficulty>
+<terrain>2</terrain>
+<container>6</container>
+</waypoint><waypoint>
+	<name id="GC5VJ4C"><![CDATA[CNW #08 Cranleigh North Walk by lamoutarde]]>
+</name>
+<coord lat="51.16725" lon="-0.47475"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC5VJ4C</link>
+<difficulty>2.5</difficulty>
+<terrain>2</terrain>
+<container>6</container>
+</waypoint><waypoint>
+	<name id="GC5VJ4W"><![CDATA[CNW #09 Cranleigh North Walk by lamoutarde]]>
+</name>
+<coord lat="51.164817" lon="-0.47465"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC5VJ4W</link>
+<difficulty>2</difficulty>
+<terrain>2</terrain>
+<container>2</container>
+</waypoint><waypoint>
+	<name id="GC5VJ5K"><![CDATA[CNW #10 Cranleigh North Walk by lamoutarde]]>
+</name>
+<coord lat="51.16315" lon="-0.474433"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC5VJ5K</link>
+<difficulty>1.5</difficulty>
+<terrain>2</terrain>
+<container>8</container>
+</waypoint><waypoint>
+	<name id="GC5VJ65"><![CDATA[CNW #11 Cranleigh North Walk by lamoutarde]]>
+</name>
+<coord lat="51.16005" lon="-0.47455"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC5VJ65</link>
+<difficulty>2.5</difficulty>
+<terrain>2</terrain>
+<container>6</container>
+</waypoint><waypoint>
+	<name id="GC5VJ8C"><![CDATA[CNW #14 Cranleigh North Walk by lamoutarde]]>
+</name>
+<coord lat="51.158" lon="-0.481917"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC5VJ8C</link>
+<difficulty>1.5</difficulty>
+<terrain>2</terrain>
+<container>2</container>
+</waypoint><waypoint>
+	<name id="GC5VJ8V"><![CDATA[CNW #15 Cranleigh North Walk by lamoutarde]]>
+</name>
+<coord lat="51.158133" lon="-0.4872"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC5VJ8V</link>
+<difficulty>2</difficulty>
+<terrain>2</terrain>
+<container>6</container>
+</waypoint><waypoint>
+	<name id="GC5VJ95"><![CDATA[CNW #16 Cranleigh North Walk - The End by lamoutarde]]>
+</name>
+<coord lat="51.157967" lon="-0.492517"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC5VJ95</link>
+<difficulty>1.5</difficulty>
+<terrain>1.5</terrain>
 <container>2</container>
 </waypoint><waypoint>
 	<name id="GC2EF4X"><![CDATA[Coomakesta Pass by monika2208]]>
@@ -334,6 +487,15 @@
 <terrain>3</terrain>
 <container>3</container>
 </waypoint><waypoint>
+	<name id="GC282XX"><![CDATA[Farnham Ramble Extended #15 – Sheephatch Lane by Kitey]]>
+</name>
+<coord lat="51.19445" lon="-0.7473"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC282XX</link>
+<difficulty>1</difficulty>
+<terrain>2</terrain>
+<container>3</container>
+</waypoint><waypoint>
 	<name id="GCJKTN"><![CDATA[Gardiner's Treat by Bootle]]>
 </name>
 <coord lat="53.35075" lon="-6.25415"/>
@@ -396,6 +558,15 @@
 <difficulty>1</difficulty>
 <terrain>2.5</terrain>
 <container>3</container>
+</waypoint><waypoint>
+	<name id="GC4RGMV"><![CDATA[Jantje by Jeep Team Holland]]>
+</name>
+<coord lat="52.543833" lon="6.193883"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC4RGMV</link>
+<difficulty>1.5</difficulty>
+<terrain>2</terrain>
+<container>8</container>
 </waypoint><waypoint>
 	<name id="GC5V0X3"><![CDATA[Kells View reloaded by Juergen1313]]>
 </name>
@@ -514,6 +685,15 @@
 <terrain>1.5</terrain>
 <container>5</container>
 </waypoint><waypoint>
+	<name id="GC6PPWM"><![CDATA[Nostalgicus by Imke65]]>
+</name>
+<coord lat="52.244317" lon="5.175917"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC6PPWM</link>
+<difficulty>3</difficulty>
+<terrain>2</terrain>
+<container>8</container>
+</waypoint><waypoint>
 	<name id="GC5WKJ5"><![CDATA[Oranges and Lemons by 2ndEast]]>
 </name>
 <coord lat="51.513033" lon="-0.114183"/>
@@ -595,6 +775,15 @@
 <terrain>3</terrain>
 <container>8</container>
 </waypoint><waypoint>
+	<name id="GC3GP6M"><![CDATA[Red Phone Box #33 - Churt Rd, Beacon Hill by theguestfamily]]>
+</name>
+<coord lat="51.122" lon="-0.75415"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC3GP6M</link>
+<difficulty>1.5</difficulty>
+<terrain>1.5</terrain>
+<container>6</container>
+</waypoint><waypoint>
 	<name id="GC1AQ1F"><![CDATA[Reenroe Beach by Marcus in Kerry]]>
 </name>
 <coord lat="51.845383" lon="-10.221017"/>
@@ -639,6 +828,15 @@
 <difficulty>2</difficulty>
 <terrain>1</terrain>
 <container>2</container>
+</waypoint><waypoint>
+	<name id="GC618"><![CDATA[Siebengebirge by Vinnie-, nici- & Linus]]>
+</name>
+<coord lat="50.68125" lon="7.249"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC618</link>
+<difficulty>2.5</difficulty>
+<terrain>2.5</terrain>
+<container>6</container>
 </waypoint><waypoint>
 	<name id="GC52N53"><![CDATA[Sindry´s View by moritzmaus]]>
 </name>
