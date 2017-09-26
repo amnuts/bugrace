@@ -11,7 +11,8 @@ return [
             'GC5BZ7T', 'GC5ATYJ', 'GC59HHE', 'GC52GET', 'GC1Y6QR', 'GC4NFPF', 'GC5RPEJ', 'GC5V0X3',
             'GC6Q9ZT', 'GC6QA6W', 'GC6QA0Y', 'GC6QJJ8', 'GC6QNYY', 'GC6QA00', 'GC1JX2N', 'GCVKVW',
             'GC6NFPW', 'GC635N0', 'GC5D1BP', 'GC5AEE4', 'GC43',    'GCJJVZ',  'GCM7R6',  'GCJKTN',
-            'GCE388',  'GC6EJ6E', 'GC797M5', 'GC3Q86T', 'GC2WQFT', 'GC1ZTWW', 'GC3Q86E'
+            'GCE388',  'GC6EJ6E', 'GC797M5', 'GC3Q86T', 'GC2WQFT', 'GC1ZTWW', 'GC3Q86E', 'GCHK5G',
+            'GC6ZTRB', 'GCF17A',  'GC1E38',  'GC1ECN2', 'GC1W374', 'GC7C3MV', 'GC4HPCZ'
         ]
     ],
     'luke'  => [

@@ -217,6 +217,15 @@
 <terrain>1.5</terrain>
 <container>2</container>
 </waypoint><waypoint>
+	<name id="GC1E38"><![CDATA[Bodie Cache by The Fossillady]]>
+</name>
+<coord lat="38.19885" lon="-119.037433"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC1E38</link>
+<difficulty>2</difficulty>
+<terrain>2</terrain>
+<container>3</container>
+</waypoint><waypoint>
 	<name id="GC4V2DE"><![CDATA[Boundless Box by Norahsnorth]]>
 </name>
 <coord lat="51.1444" lon="-0.705833"/>
@@ -460,6 +469,15 @@
 <terrain>1.5</terrain>
 <container>8</container>
 </waypoint><waypoint>
+	<name id="GCHK5G"><![CDATA[Digital Fortress by Sgt Stitches]]>
+</name>
+<coord lat="36.941667" lon="-122.05"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GCHK5G</link>
+<difficulty>4.5</difficulty>
+<terrain>1</terrain>
+<container>2</container>
+</waypoint><waypoint>
 	<name id="GC79BTW"><![CDATA[Dirty tart by lindapatryk]]>
 </name>
 <coord lat="52.0591666666667" lon="-9.50938333333333"/>
@@ -514,6 +532,15 @@
 <terrain>3</terrain>
 <container>8</container>
 </waypoint><waypoint>
+	<name id="GC6ZTRB"><![CDATA[Got Stuck on the Pier by TropicalJoe]]>
+</name>
+<coord lat="34.007617" lon="-118.499583"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC6ZTRB</link>
+<difficulty>2</difficulty>
+<terrain>1.5</terrain>
+<container>2</container>
+</waypoint><waypoint>
 	<name id="GC6QJJ8"><![CDATA[Graces Castle by kennymick1]]>
 </name>
 <coord lat="52.6542833333333" lon="-7.25411666666667"/>
@@ -531,6 +558,15 @@
 <difficulty>3.5</difficulty>
 <terrain>3.5</terrain>
 <container>2</container>
+</waypoint><waypoint>
+	<name id="GC1W374"><![CDATA[Hear the Falls by Thunder26]]>
+</name>
+<coord lat="37.6111166666667" lon="-119.010516666667"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC1W374</link>
+<difficulty>2</difficulty>
+<terrain>2.5</terrain>
+<container>4</container>
 </waypoint><waypoint>
 	<name id="GC6EJ6E"><![CDATA[Herbert Park 3 by blizzard2]]>
 </name>
@@ -613,15 +649,6 @@
 <terrain>1.5</terrain>
 <container>8</container>
 </waypoint><waypoint>
-	<name id="GC797M5"><![CDATA[Köln historisch (V): der Kronleuchtersaal by Geistercacher]]>
-</name>
-<coord lat="50.941317" lon="6.956367"/>
-<type>Geocache</type>
-<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC797M5</link>
-<difficulty>1.5</difficulty>
-<terrain>2</terrain>
-<container>6</container>
-</waypoint><waypoint>
 	<name id="GC63D9A"><![CDATA[Ladies View Earthcache by Lulybelle]]>
 </name>
 <coord lat="51.967333" lon="-9.592667"/>
@@ -630,6 +657,15 @@
 <difficulty>2</difficulty>
 <terrain>1</terrain>
 <container>6</container>
+</waypoint><waypoint>
+	<name id="GC4HPCZ"><![CDATA[Lake Mary Special by cjmandala]]>
+</name>
+<coord lat="37.600967" lon="-118.99585"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC4HPCZ</link>
+<difficulty>2</difficulty>
+<terrain>2</terrain>
+<container>3</container>
 </waypoint><waypoint>
 	<name id="GCXCG6"><![CDATA[Long Man by The Long Man Trackers]]>
 </name>
@@ -648,6 +684,15 @@
 <difficulty>1.5</difficulty>
 <terrain>1.5</terrain>
 <container>8</container>
+</waypoint><waypoint>
+	<name id="GC1ECN2"><![CDATA[Mammoth Mill City by Thunder26]]>
+</name>
+<coord lat="37.61705" lon="-118.998667"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC1ECN2</link>
+<difficulty>1.5</difficulty>
+<terrain>1.5</terrain>
+<container>3</container>
 </waypoint><waypoint>
 	<name id="GC1JX2N"><![CDATA[Mount Usher by Donnacha]]>
 </name>
@@ -711,6 +756,15 @@
 <difficulty>2</difficulty>
 <terrain>1.5</terrain>
 <container>8</container>
+</waypoint><waypoint>
+	<name id="GCF17A"><![CDATA[Peace on the Rim by Timpat]]>
+</name>
+<coord lat="36.072533" lon="-112.166533"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GCF17A</link>
+<difficulty>1</difficulty>
+<terrain>2</terrain>
+<container>5</container>
 </waypoint><waypoint>
 	<name id="GC33J7M"><![CDATA[PEMM-1 by sollericos]]>
 </name>
@@ -844,6 +898,15 @@
 <type>Geocache</type>
 <link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC52N53</link>
 <difficulty>2</difficulty>
+<terrain>3</terrain>
+<container>3</container>
+</waypoint><waypoint>
+	<name id="GC7C3MV"><![CDATA[Six Lakes Overlook by tom4props]]>
+</name>
+<coord lat="37.59955" lon="-119.02155"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC7C3MV</link>
+<difficulty>1.5</difficulty>
 <terrain>3</terrain>
 <container>3</container>
 </waypoint><waypoint>
