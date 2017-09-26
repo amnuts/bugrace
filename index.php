@@ -148,7 +148,7 @@ $toKilometres = new KM();
                               data-km="km"
                         >mile<?php echo $tM == 1 ? '' : 's'; ?></span>
                         <?php if ($data['travelled'] && $data['travelled'] == $maxTravelled): ?>
-                        <span class="fa-stack winner-left <?= ($sameTravelled >= 3 ? 'bronze' : ($sameTravelled == 2 ? 'silver' : 'gold')); ?>">
+                        <span class="fa-stack winner-left <?php echo ($sameTravelled >= 3 ? 'bronze' : ($sameTravelled == 2 ? 'silver' : 'gold')); ?>">
                             <i class="fa fa-certificate fa-spin fa-fw fa-stack-2x"></i>
                             <i class="fa fa-trophy fa-fw fa-stack-1x"></i>
                         </span>
@@ -158,7 +158,7 @@ $toKilometres = new KM();
                         <span><?php echo $data['visited']; ?></span>
                         <span>cache<?php echo $data['visited'] == 1 ? '' : 's'; ?></span>
                         <?php if ($data['visited'] > 1 && $data['visited'] == $maxVisited): ?>
-                        <span class="fa-stack winner-right <?= ($sameVisited >= 3 ? 'bronze' : ($sameVisited == 2 ? 'silver' : 'gold')); ?>">
+                        <span class="fa-stack winner-right <?php echo ($sameVisited >= 3 ? 'bronze' : ($sameVisited == 2 ? 'silver' : 'gold')); ?>">
                             <i class="fa fa-certificate fa-spin fa-fw fa-stack-2x"></i>
                             <i class="fa fa-trophy fa-fw fa-stack-1x"></i>
                         </span>
@@ -170,7 +170,7 @@ $toKilometres = new KM();
             <ol class="trail">
                 <?php if (!empty($data['bug'])): ?>
                 <span>
-                    <a href="https://coord.info/<?= $data['bug']; ?>" target="_blank"><i class="fa fa-fw fa-bug"></i> <?= $data['bug']; ?></a>
+                    <a href="https://coord.info/<?php echo $data['bug']; ?>" target="_blank"><i class="fa fa-fw fa-bug"></i> <?php echo $data['bug']; ?></a>
                 </span>
                 <?php endif; ?>
                 <?php foreach ($data['caches'] as $i => $cache): ?>
