@@ -13,6 +13,8 @@ $people = array_merge(
     @include __DIR__ . '/people.php'
 );
 
+$maps = ['rosie' => [], 'luke' => [], 'lisa' => [], 'andy' => []];
+
 $waypoints = [];
 if (file_exists(__DIR__.'/geocaching.loc')) {
     $waypointXml = simplexml_load_file(__DIR__.'/geocaching.loc');
@@ -34,6 +36,7 @@ foreach ($people as $person => $cacheData) {
         'visited'   => 0,
         'travelled' => 0
     ];
+    $mapData = [];
     for ($i = 0; $i < count($cacheData['caches']); $i++) {
         if (isset($waypoints[$cacheData['caches'][$i]])) {
             $data['caches'][$i] = $waypoints[$cacheData['caches'][$i]];
@@ -58,12 +61,20 @@ foreach ($people as $person => $cacheData) {
             );
             $data['travelled'] += $data['caches'][$i]['travelled'];
         }
+        if (isset($data['caches'][$i]['lon'])) {
+            $mapData[] = [
+                'lng'   => (float)$data['caches'][$i]['lon'],
+                'lat'   => (float)$data['caches'][$i]['lat'],
+                'title' => $cacheData['caches'][$i]
+            ];
+        }
     }
     $data['visited'] = count($data['caches']);
     $maxVisited = max($maxVisited, $data['visited']);
     $maxTravelled = max($maxTravelled, $data['travelled']);
     $data['caches'] = array_reverse($data['caches']);
     $people[$person] = $data;
+    $maps[$person] = $mapData;
 }
 
 $sameTravelled = $sameVisited = 0;
@@ -173,6 +184,11 @@ $toKilometres = new KM();
                     <a href="https://coord.info/<?php echo $data['bug']; ?>" target="_blank"><i class="fa fa-fw fa-bug"></i> <?php echo $data['bug']; ?></a>
                 </span>
                 <?php endif; ?>
+                <?php if (!empty($data['caches'])): ?>
+                <span>
+                    <i class="fa fa-fw fa-map-marker show-map" title="Show on Google Maps" data-for="<?php echo $person; ?>"></i>
+                </span>
+                <?php endif; ?>
                 <?php foreach ($data['caches'] as $i => $cache): ?>
                     <?php $tM = $toMiles->convert($cache['travelled']); ?>
                     <?php $tKM = $toKilometres->convert($cache['travelled']); ?>
@@ -181,21 +197,21 @@ $toKilometres = new KM();
                         <a href="https://coord.info/<?php echo $cache['id']; ?>" target="_blank"><?php
                             echo !empty($cache['name']) ? htmlentities($cache['name'], ENT_COMPAT, 'utf-8') : $cache['id'];
                         ?></a>
-                        <? if (isset($cache['lat'])): ?>
+                        <?php if (isset($cache['lat'])): ?>
                         <p><b data-location data-ne="<?php echo $cache['ddm']; ?>" data-ll="<?php echo sprintf('%0.6f', $cache['lat']) . ', ' . sprintf('%0.6f', $cache['lon']); ?>"><?php echo $cache['ddm']; ?></b><br/><?php echo $cache['id']; ?></p>
-                        <? endif; ?>
+                        <?php endif; ?>
                     </li>
-                    <? if ($cache['travelled']): ?>
+                    <?php if ($cache['travelled']): ?>
                         <aside class="hide-for-small-only">
                         <span data-distance
                               data-miles="<?php echo $cache['travelled'] ? sprintf('%.02f', $tM).'<br/>m' : '??'; ?>"
                               data-km="<?php echo $cache['travelled'] ? sprintf('%.02f', $tKM).'<br/>km' : '??'; ?>"
                         ><?php echo $cache['travelled'] ? sprintf('%.02f', $tM).'<br/>m' : '??'; ?></span>
                         </aside>
-                    <? endif; ?>
+                    <?php endif; ?>
                 <?php endforeach; ?>
             </ol>
-            <? endif; ?>
+            <?php endif; ?>
         </div>
         <?php endforeach; ?>
     </div>
@@ -213,9 +229,19 @@ $toKilometres = new KM();
     </div>
 </footer>
 
+<div class="reveal full" id="mapModal" data-reveal>
+    <div id="map" style="width:100%;height:100%;"></div>
+    <button class="close-button" data-close aria-label="Close modal" type="button">
+        <span aria-hidden="true">&times;</span>
+    </button>
+</div>
+
+<script>var mapData = <?php echo json_encode($maps); ?>;</script>
 <script src="js/vendor/jquery.js"></script>
 <script src="js/vendor/what-input.js"></script>
 <script src="js/vendor/foundation.min.js"></script>
 <script src="js/app.js"></script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBWyOxGDZQ1n8HjBEWHgRQQONL1T49N8_g&callback=initMap"></script>
+
 </body>
 </html>

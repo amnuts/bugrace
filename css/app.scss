@@ -207,7 +207,10 @@ ol.trail {
   text-align: center;
   > span {
     display: block;
-    margin-bottom: 1rem;
+    margin-bottom: 0.3rem;
+    &:last-of-type {
+      margin-bottom: 1rem;
+    }
   }
   > li {
     font-size: 0.844rem;
@@ -252,6 +255,11 @@ ol.trail {
       align-items: center;
       line-height: 0.6rem;
     }
+  }
+  .show-map {
+    font-size: 200%;
+    color: #b70e0e;
+    cursor: pointer;
   }
 }
 
