@@ -1018,6 +1018,15 @@
 <terrain>1.5</terrain>
 <container>2</container>
 </waypoint><waypoint>
+	<name id="GC6Q0RT"><![CDATA[TB Hotel and Travel Agency by Malpaso Desperado]]>
+</name>
+<coord lat="51.928317" lon="4.387467"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC6Q0RT</link>
+<difficulty>1.5</difficulty>
+<terrain>2</terrain>
+<container>3</container>
+</waypoint><waypoint>
 	<name id="GC6QA0Y"><![CDATA[The Dukes of Ormonde by polkatart]]>
 </name>
 <coord lat="52.6503" lon="-7.25205"/>
