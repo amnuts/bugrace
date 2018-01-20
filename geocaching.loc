@@ -208,15 +208,6 @@
 <terrain>2.5</terrain>
 <container>2</container>
 </waypoint><waypoint>
-	<name id="GC6QNYY"><![CDATA[Better Value beats them all...... by polkatart]]>
-</name>
-<coord lat="52.652733" lon="-7.252717"/>
-<type>Geocache</type>
-<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC6QNYY</link>
-<difficulty>2</difficulty>
-<terrain>1.5</terrain>
-<container>2</container>
-</waypoint><waypoint>
 	<name id="GC1E38"><![CDATA[Bodie Cache by The Fossillady]]>
 </name>
 <coord lat="38.19885" lon="-119.037433"/>
@@ -225,15 +216,6 @@
 <difficulty>2</difficulty>
 <terrain>2</terrain>
 <container>3</container>
-</waypoint><waypoint>
-	<name id="GC4V2DE"><![CDATA[Boundless Box by Norahsnorth]]>
-</name>
-<coord lat="51.1444" lon="-0.705833"/>
-<type>Geocache</type>
-<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC4V2DE</link>
-<difficulty>1.5</difficulty>
-<terrain>2</terrain>
-<container>8</container>
 </waypoint><waypoint>
 	<name id="GCVKVW"><![CDATA[Bray Head by Fjon]]>
 </name>
@@ -262,7 +244,7 @@
 <terrain>4.5</terrain>
 <container>8</container>
 </waypoint><waypoint>
-	<name id="GC46NKB"><![CDATA[Church Micro 3359...Hascombe by lamoutarde]]>
+	<name id="GC46NKB"><![CDATA[Church Micro 3359...Hascombe by hofficoffi]]>
 </name>
 <coord lat="51.146133" lon="-0.568833"/>
 <type>Geocache</type>
@@ -298,7 +280,7 @@
 <terrain>1</terrain>
 <container>2</container>
 </waypoint><waypoint>
-	<name id="GC5VJ16"><![CDATA[CNW #01 Cranleigh North Walk - The Start by lamoutarde]]>
+	<name id="GC5VJ16"><![CDATA[CNW #01 Cranleigh North Walk - The Start by ===sgb]]>
 </name>
 <coord lat="51.162133" lon="-0.4926"/>
 <type>Geocache</type>
@@ -307,7 +289,7 @@
 <terrain>2</terrain>
 <container>6</container>
 </waypoint><waypoint>
-	<name id="GC5VJ1G"><![CDATA[CNW #02 Cranleigh North Walk by lamoutarde]]>
+	<name id="GC5VJ1G"><![CDATA[CNW #02 Cranleigh North Walk by ===sgb]]>
 </name>
 <coord lat="51.163567" lon="-0.4919"/>
 <type>Geocache</type>
@@ -316,7 +298,7 @@
 <terrain>2</terrain>
 <container>2</container>
 </waypoint><waypoint>
-	<name id="GC5VJ20"><![CDATA[CNW #03 Cranleigh North Walk by lamoutarde]]>
+	<name id="GC5VJ20"><![CDATA[CNW #03 Cranleigh North Walk by ===sgb]]>
 </name>
 <coord lat="51.165117" lon="-0.491733"/>
 <type>Geocache</type>
@@ -325,7 +307,7 @@
 <terrain>2</terrain>
 <container>2</container>
 </waypoint><waypoint>
-	<name id="GC5VJ2D"><![CDATA[CNW #04 Cranleigh North Walk by lamoutarde]]>
+	<name id="GC5VJ2D"><![CDATA[CNW #04 Cranleigh North Walk by ===sgb]]>
 </name>
 <coord lat="51.169733" lon="-0.48695"/>
 <type>Geocache</type>
@@ -334,7 +316,7 @@
 <terrain>2</terrain>
 <container>2</container>
 </waypoint><waypoint>
-	<name id="GC5VJ2X"><![CDATA[CNW #05 Cranleigh North Walk by lamoutarde]]>
+	<name id="GC5VJ2X"><![CDATA[CNW #05 Cranleigh North Walk by ===sgb]]>
 </name>
 <coord lat="51.169917" lon="-0.4831"/>
 <type>Geocache</type>
@@ -343,7 +325,7 @@
 <terrain>2</terrain>
 <container>8</container>
 </waypoint><waypoint>
-	<name id="GC5VJ3C"><![CDATA[CNW #06 Cranleigh North Walk by lamoutarde]]>
+	<name id="GC5VJ3C"><![CDATA[CNW #06 Cranleigh North Walk by ===sgb]]>
 </name>
 <coord lat="51.168933" lon="-0.479733"/>
 <type>Geocache</type>
@@ -352,7 +334,7 @@
 <terrain>2</terrain>
 <container>2</container>
 </waypoint><waypoint>
-	<name id="GC5VJ3Y"><![CDATA[CNW #07 Cranleigh North Walk by lamoutarde]]>
+	<name id="GC5VJ3Y"><![CDATA[CNW #07 Cranleigh North Walk by ===sgb]]>
 </name>
 <coord lat="51.1682" lon="-0.47685"/>
 <type>Geocache</type>
@@ -361,7 +343,7 @@
 <terrain>2</terrain>
 <container>6</container>
 </waypoint><waypoint>
-	<name id="GC5VJ4C"><![CDATA[CNW #08 Cranleigh North Walk by lamoutarde]]>
+	<name id="GC5VJ4C"><![CDATA[CNW #08 Cranleigh North Walk by ===sgb]]>
 </name>
 <coord lat="51.16725" lon="-0.47475"/>
 <type>Geocache</type>
@@ -370,7 +352,7 @@
 <terrain>2</terrain>
 <container>6</container>
 </waypoint><waypoint>
-	<name id="GC5VJ4W"><![CDATA[CNW #09 Cranleigh North Walk by lamoutarde]]>
+	<name id="GC5VJ4W"><![CDATA[CNW #09 Cranleigh North Walk by ===sgb]]>
 </name>
 <coord lat="51.164817" lon="-0.47465"/>
 <type>Geocache</type>
@@ -379,7 +361,7 @@
 <terrain>2</terrain>
 <container>2</container>
 </waypoint><waypoint>
-	<name id="GC5VJ5K"><![CDATA[CNW #10 Cranleigh North Walk by lamoutarde]]>
+	<name id="GC5VJ5K"><![CDATA[CNW #10 Cranleigh North Walk by ===sgb]]>
 </name>
 <coord lat="51.16315" lon="-0.474433"/>
 <type>Geocache</type>
@@ -388,7 +370,7 @@
 <terrain>2</terrain>
 <container>8</container>
 </waypoint><waypoint>
-	<name id="GC5VJ65"><![CDATA[CNW #11 Cranleigh North Walk by lamoutarde]]>
+	<name id="GC5VJ65"><![CDATA[CNW #11 Cranleigh North Walk by ===sgb]]>
 </name>
 <coord lat="51.16005" lon="-0.47455"/>
 <type>Geocache</type>
@@ -397,7 +379,7 @@
 <terrain>2</terrain>
 <container>6</container>
 </waypoint><waypoint>
-	<name id="GC5VJ8C"><![CDATA[CNW #14 Cranleigh North Walk by lamoutarde]]>
+	<name id="GC5VJ8C"><![CDATA[CNW #14 Cranleigh North Walk by ===sgb]]>
 </name>
 <coord lat="51.158" lon="-0.481917"/>
 <type>Geocache</type>
@@ -406,7 +388,7 @@
 <terrain>2</terrain>
 <container>2</container>
 </waypoint><waypoint>
-	<name id="GC5VJ8V"><![CDATA[CNW #15 Cranleigh North Walk by lamoutarde]]>
+	<name id="GC5VJ8V"><![CDATA[CNW #15 Cranleigh North Walk by ===sgb]]>
 </name>
 <coord lat="51.158133" lon="-0.4872"/>
 <type>Geocache</type>
@@ -415,7 +397,7 @@
 <terrain>2</terrain>
 <container>6</container>
 </waypoint><waypoint>
-	<name id="GC5VJ95"><![CDATA[CNW #16 Cranleigh North Walk - The End by lamoutarde]]>
+	<name id="GC5VJ95"><![CDATA[CNW #16 Cranleigh North Walk - The End by ===sgb]]>
 </name>
 <coord lat="51.157967" lon="-0.492517"/>
 <type>Geocache</type>
@@ -586,15 +568,6 @@
 <terrain>1.5</terrain>
 <container>8</container>
 </waypoint><waypoint>
-	<name id="GC1ZAHB"><![CDATA[JaceyB's Blue Ice BONUS 1 by jaceyb99]]>
-</name>
-<coord lat="51.117117" lon="-0.331033"/>
-<type>Geocache</type>
-<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC1ZAHB</link>
-<difficulty>1</difficulty>
-<terrain>2.5</terrain>
-<container>3</container>
-</waypoint><waypoint>
 	<name id="GC4RGMV"><![CDATA[Jantje by Jeep Team Holland]]>
 </name>
 <coord lat="52.543833" lon="6.193883"/>
@@ -613,15 +586,6 @@
 <terrain>1.5</terrain>
 <container>3</container>
 </waypoint><waypoint>
-	<name id="GC6Q9ZT"><![CDATA[Kilkenny Castle by polkatart]]>
-</name>
-<coord lat="52.650133" lon="-7.249283"/>
-<type>Geocache</type>
-<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC6Q9ZT</link>
-<difficulty>2.5</difficulty>
-<terrain>1</terrain>
-<container>2</container>
-</waypoint><waypoint>
 	<name id="GC6QA6W"><![CDATA[Kilkenny Castle  by buachaill]]>
 </name>
 <coord lat="52.6503" lon="-7.248883"/>
@@ -630,15 +594,6 @@
 <difficulty>1.5</difficulty>
 <terrain>1</terrain>
 <container>6</container>
-</waypoint><waypoint>
-	<name id="GC6QA00"><![CDATA[Kilkenny Cats by polkatart]]>
-</name>
-<coord lat="52.6518" lon="-7.250533"/>
-<type>Geocache</type>
-<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC6QA00</link>
-<difficulty>2</difficulty>
-<terrain>1.5</terrain>
-<container>2</container>
 </waypoint><waypoint>
 	<name id="GC27MXH"><![CDATA[Killarney Lakes Viewpoint - South by cham-69]]>
 </name>
@@ -721,6 +676,15 @@
 <terrain>1</terrain>
 <container>8</container>
 </waypoint><waypoint>
+	<name id="GC6GJFP"><![CDATA[Natuurgebied Schotsman by GCGerwin]]>
+</name>
+<coord lat="51.58265" lon="3.661767"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC6GJFP</link>
+<difficulty>2</difficulty>
+<terrain>2.5</terrain>
+<container>2</container>
+</waypoint><waypoint>
 	<name id="GCM7R6"><![CDATA[Northside Pub Crawl by Bootle]]>
 </name>
 <coord lat="53.349883" lon="-6.24935"/>
@@ -754,7 +718,7 @@
 <type>Geocache</type>
 <link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC3JR3B</link>
 <difficulty>2</difficulty>
-<terrain>1.5</terrain>
+<terrain>2</terrain>
 <container>8</container>
 </waypoint><waypoint>
 	<name id="GCF17A"><![CDATA[Peace on the Rim by Timpat]]>
@@ -872,7 +836,16 @@
 <link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC71JV5</link>
 <difficulty>2.5</difficulty>
 <terrain>1.5</terrain>
-<container>8</container>
+<container>2</container>
+</waypoint><waypoint>
+	<name id="GC5E5M6"><![CDATA[Save Travels by Jeandix]]>
+</name>
+<coord lat="51.862483" lon="4.325333"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC5E5M6</link>
+<difficulty>1.5</difficulty>
+<terrain>2</terrain>
+<container>3</container>
 </waypoint><waypoint>
 	<name id="GC66Q06"><![CDATA[SideTracked - London Victoria by terrapintim]]>
 </name>
@@ -1018,24 +991,6 @@
 <terrain>1.5</terrain>
 <container>2</container>
 </waypoint><waypoint>
-	<name id="GC6Q0RT"><![CDATA[TB Hotel and Travel Agency by Malpaso Desperado]]>
-</name>
-<coord lat="51.928317" lon="4.387467"/>
-<type>Geocache</type>
-<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC6Q0RT</link>
-<difficulty>1.5</difficulty>
-<terrain>2</terrain>
-<container>3</container>
-</waypoint><waypoint>
-	<name id="GC6QA0Y"><![CDATA[The Dukes of Ormonde by polkatart]]>
-</name>
-<coord lat="52.6503" lon="-7.25205"/>
-<type>Geocache</type>
-<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC6QA0Y</link>
-<difficulty>1.5</difficulty>
-<terrain>1</terrain>
-<container>6</container>
-</waypoint><waypoint>
 	<name id="GC6N2Q3"><![CDATA[The Hustler by Vimmes]]>
 </name>
 <coord lat="50.856167" lon="0.224483"/>
@@ -1080,6 +1035,15 @@
 <difficulty>1.5</difficulty>
 <terrain>1.5</terrain>
 <container>8</container>
+</waypoint><waypoint>
+	<name id="GC75E1E"><![CDATA[Time to play  (gadget game & tb hotel) by basjevh]]>
+</name>
+<coord lat="51.558817" lon="3.799783"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC75E1E</link>
+<difficulty>4.5</difficulty>
+<terrain>1</terrain>
+<container>6</container>
 </waypoint><waypoint>
 	<name id="GC1ZTWW"><![CDATA[TOFANA DI ROZES ferrata´s cache :-) by vydra20]]>
 </name>
