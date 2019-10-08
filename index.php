@@ -16,15 +16,10 @@ $people = array_merge(
 $maps = ['rosie' => [], 'luke' => [], 'lisa' => [], 'andy' => []];
 
 $waypoints = [];
-if (file_exists(__DIR__.'/geocaching.loc')) {
-    $waypointXml = simplexml_load_file(__DIR__.'/geocaching.loc');
-    foreach ($waypointXml->waypoint as $waypoint) {
-        $waypoints[(string)$waypoint->name['id']] = [
-            'id'   => (string)$waypoint->name['id'],
-            'name' => preg_replace('/^(.*?) by .*\r?$/', '$1', trim((string)$waypoint->name)),
-            'lat'  => (string)$waypoint->coord['lat'],
-            'lon'  => (string)$waypoint->coord['lon']
-        ];
+if (file_exists(__DIR__.'/caches.json')) {
+    $waypoints = json_decode(file_get_contents(__DIR__.'/caches.json'), true);
+    foreach ($waypoints as $code => &$waypoint) {
+        $waypoint['id'] = $code;
     }
 }
 

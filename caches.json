@@ -1,0 +1,612 @@
+{
+    "GC635N0": {
+        "name": "01 Cliff Walk - Along the Green Walk ~ Redux ~",
+        "lat": "53.193867",
+        "lon": "-6.0844"
+    },
+    "GC5D1BP": {
+        "name": "02 Cliff Walk - Bray Head Rocks",
+        "lat": "53.192983",
+        "lon": "-6.082583"
+    },
+    "GC5AEE4": {
+        "name": "03 Cliff Walk - Last Stop ",
+        "lat": "53.1925",
+        "lon": "-6.08195"
+    },
+    "GC27N02": {
+        "name": "172 Steps",
+        "lat": "52.004483",
+        "lon": "-9.505083"
+    },
+    "GC2R35D": {
+        "name": "365 Challenge",
+        "lat": "51.204933",
+        "lon": "-0.3244"
+    },
+    "GC5DEVZ": {
+        "name": "A Climbing Challenge",
+        "lat": "51.878783",
+        "lon": "-8.357933"
+    },
+    "GC5BZ7T": {
+        "name": "A Dangerous Challenge",
+        "lat": "51.879033",
+        "lon": "-8.348917"
+    },
+    "GC5EYGJ": {
+        "name": "A Family Challenge",
+        "lat": "51.8783",
+        "lon": "-8.364733"
+    },
+    "GC5KNAF": {
+        "name": "A Non Attribute Challenge",
+        "lat": "51.877717",
+        "lon": "-8.378467"
+    },
+    "GC5FPG4": {
+        "name": "A Puzzling Challenge",
+        "lat": "51.8781",
+        "lon": "-8.368967"
+    },
+    "GC6NFPW": {
+        "name": "A Rapid DT Challenge",
+        "lat": "53.184817",
+        "lon": "-6.0846"
+    },
+    "GC59HHE": {
+        "name": "A Walkers Challenge",
+        "lat": "51.875783",
+        "lon": "-8.3416"
+    },
+    "GC5ATYJ": {
+        "name": "A Water Challenge",
+        "lat": "51.877233",
+        "lon": "-8.344083"
+    },
+    "GC5Y27Q": {
+        "name": "Alfriston Wander",
+        "lat": "50.811083",
+        "lon": "0.143867"
+    },
+    "GC3Q86E": {
+        "name": "Alpen Challenge - Elevation 10000",
+        "lat": "46.429217",
+        "lon": "11.207567"
+    },
+    "GC3Q86T": {
+        "name": "Alpen Challenge - Elevation 20000",
+        "lat": "46.425483",
+        "lon": "11.205867"
+    },
+    "GC5D126": {
+        "name": "An Abandoned Challenge",
+        "lat": "51.878883",
+        "lon": "-8.353117"
+    },
+    "GC5JJGZ": {
+        "name": "An Attribute Challenge",
+        "lat": "51.87785",
+        "lon": "-8.375417"
+    },
+    "GC5DT8H": {
+        "name": "Another Challenge",
+        "lat": "51.87855",
+        "lon": "-8.360583"
+    },
+    "GCG7Q3": {
+        "name": "Atlantic Whirlpool",
+        "lat": "51.91345",
+        "lon": "-10.391317"
+    },
+    "GC6R0HG": {
+        "name": "Ballinskelligs Bay View from Waterville",
+        "lat": "51.82345",
+        "lon": "-10.172033"
+    },
+    "GC72BKP": {
+        "name": "Beaver Fever - Bramley Bank",
+        "lat": "51.3563",
+        "lon": "-0.0603"
+    },
+    "GC7286X": {
+        "name": "Beaver Fever - Slines Oak Pond",
+        "lat": "51.3039",
+        "lon": "-0.032233"
+    },
+    "GC1E38": {
+        "name": "Bodie Cache",
+        "lat": "38.19885",
+        "lon": "-119.037433"
+    },
+    "GCVKVW": {
+        "name": "Bray Head",
+        "lat": "53.18875",
+        "lon": "-6.084717"
+    },
+    "GC5RPEJ": {
+        "name": "Cashel Gardens",
+        "lat": "52.5125",
+        "lon": "-7.879483"
+    },
+    "GC6Z63A": {
+        "name": "Checker",
+        "lat": "52.36155",
+        "lon": "5.73486666666667"
+    },
+    "GC46NKB": {
+        "name": "Church Micro 3359...Hascombe",
+        "lat": "51.146133",
+        "lon": "-0.568833"
+    },
+    "GC5K2B6": {
+        "name": "Church Micro 7006...Elstead - URC",
+        "lat": "51.18465",
+        "lon": "-0.700317"
+    },
+    "GC4DRJF": {
+        "name": "Church Micro 754...Shamley Green",
+        "lat": "51.1802",
+        "lon": "-0.523217"
+    },
+    "GC63NZW": {
+        "name": "Church Micro 8433...Thornton Heath - St Barnabas",
+        "lat": "51.390267",
+        "lon": "-0.1093"
+    },
+    "GC5VJ16": {
+        "name": "CNW #01 Cranleigh North Walk - The Start",
+        "lat": "51.162133",
+        "lon": "-0.4926"
+    },
+    "GC5VJ1G": {
+        "name": "CNW #02 Cranleigh North Walk",
+        "lat": "51.163567",
+        "lon": "-0.4919"
+    },
+    "GC5VJ20": {
+        "name": "CNW #03 Cranleigh North Walk",
+        "lat": "51.165117",
+        "lon": "-0.491733"
+    },
+    "GC5VJ2D": {
+        "name": "CNW #04 Cranleigh North Walk",
+        "lat": "51.169733",
+        "lon": "-0.48695"
+    },
+    "GC5VJ2X": {
+        "name": "CNW #05 Cranleigh North Walk",
+        "lat": "51.169917",
+        "lon": "-0.4831"
+    },
+    "GC5VJ3C": {
+        "name": "CNW #06 Cranleigh North Walk",
+        "lat": "51.168933",
+        "lon": "-0.479733"
+    },
+    "GC5VJ3Y": {
+        "name": "CNW #07 Cranleigh North Walk",
+        "lat": "51.1682",
+        "lon": "-0.47685"
+    },
+    "GC5VJ4C": {
+        "name": "CNW #08 Cranleigh North Walk",
+        "lat": "51.16725",
+        "lon": "-0.47475"
+    },
+    "GC5VJ4W": {
+        "name": "CNW #09 Cranleigh North Walk",
+        "lat": "51.164817",
+        "lon": "-0.47465"
+    },
+    "GC5VJ5K": {
+        "name": "CNW #10 Cranleigh North Walk",
+        "lat": "51.16315",
+        "lon": "-0.474433"
+    },
+    "GC5VJ65": {
+        "name": "CNW #11 Cranleigh North Walk",
+        "lat": "51.16005",
+        "lon": "-0.47455"
+    },
+    "GC5VJ8C": {
+        "name": "CNW #14 Cranleigh North Walk",
+        "lat": "51.158",
+        "lon": "-0.481917"
+    },
+    "GC5VJ8V": {
+        "name": "CNW #15 Cranleigh North Walk",
+        "lat": "51.158133",
+        "lon": "-0.4872"
+    },
+    "GC5VJ95": {
+        "name": "CNW #16 Cranleigh North Walk - The End",
+        "lat": "51.157967",
+        "lon": "-0.492517"
+    },
+    "GC2EF4X": {
+        "name": "Coomakesta Pass",
+        "lat": "51.7767666666667",
+        "lon": "-10.1678833333333"
+    },
+    "GC6HMY8": {
+        "name": "Coomakista Pass - Riding High",
+        "lat": "51.77645",
+        "lon": "-10.167483"
+    },
+    "GC5QQ3W": {
+        "name": "Coomanaspig",
+        "lat": "51.8561166666667",
+        "lon": "-10.3673166666667"
+    },
+    "GC54KRM": {
+        "name": "Cuckmere Valley travel bug Hotel",
+        "lat": "50.8085",
+        "lon": "0.171933"
+    },
+    "GC3W0GA": {
+        "name": "Derwen Dawdle #2 - Clay Pipe",
+        "lat": "53.309417",
+        "lon": "-3.7847"
+    },
+    "GCHK5G": {
+        "name": "Digital Fortress",
+        "lat": "36.941667",
+        "lon": "-122.05"
+    },
+    "GC79BTW": {
+        "name": "Dirty tart",
+        "lat": "52.0591666666667",
+        "lon": "-9.50938333333333"
+    },
+    "GC6VYGB": {
+        "name": "Dok",
+        "lat": "51.207967",
+        "lon": "0.07875"
+    },
+    "GC43": {
+        "name": "Europe's First",
+        "lat": "53.1913",
+        "lon": "-6.0803"
+    },
+    "GC282XX": {
+        "name": "Farnham Ramble Extended #15 \u2013 Sheephatch Lane",
+        "lat": "51.19445",
+        "lon": "-0.7473"
+    },
+    "GCJKTN": {
+        "name": "Gardiner's Treat",
+        "lat": "53.35075",
+        "lon": "-6.25415"
+    },
+    "GC6KNPH": {
+        "name": "Geocachers' Playground",
+        "lat": "51.426667",
+        "lon": "-0.030833"
+    },
+    "GC6ZTRB": {
+        "name": "Got Stuck on the Pier",
+        "lat": "34.007617",
+        "lon": "-118.499583"
+    },
+    "GC6QJJ8": {
+        "name": "Graces Castle",
+        "lat": "52.6542833333333",
+        "lon": "-7.25411666666667"
+    },
+    "GC1DKZ6": {
+        "name": "Grain Tower Battery reclaimed.",
+        "lat": "51.45155",
+        "lon": "0.731217"
+    },
+    "GC1W374": {
+        "name": "Hear the Falls",
+        "lat": "37.6111166666667",
+        "lon": "-119.010516666667"
+    },
+    "GC6EJ6E": {
+        "name": "Herbert Park 3",
+        "lat": "53.327017",
+        "lon": "-6.2332"
+    },
+    "GC4NFPF": {
+        "name": "Hore Abbey",
+        "lat": "52.5201",
+        "lon": "-7.899783"
+    },
+    "GC4RGMV": {
+        "name": "Jantje",
+        "lat": "52.543833",
+        "lon": "6.193883"
+    },
+    "GC5V0X3": {
+        "name": "Kells View reloaded",
+        "lat": "52.024167",
+        "lon": "-10.09335"
+    },
+    "GC6QA6W": {
+        "name": "Kilkenny Castle ",
+        "lat": "52.6503",
+        "lon": "-7.248883"
+    },
+    "GC27MXH": {
+        "name": "Killarney Lakes Viewpoint - South",
+        "lat": "51.9686",
+        "lon": "-9.59475"
+    },
+    "GC63D9A": {
+        "name": "Ladies View Earthcache",
+        "lat": "51.967333",
+        "lon": "-9.592667"
+    },
+    "GC4HPCZ": {
+        "name": "Lake Mary Special",
+        "lat": "37.600967",
+        "lon": "-118.99585"
+    },
+    "GCXCG6": {
+        "name": "Long Man",
+        "lat": "50.811533",
+        "lon": "0.187533"
+    },
+    "GC2WQFT": {
+        "name": "Lupo Bianco",
+        "lat": "46.492617",
+        "lon": "11.782317"
+    },
+    "GC1ECN2": {
+        "name": "Mammoth Mill City",
+        "lat": "37.61705",
+        "lon": "-118.998667"
+    },
+    "GC1JX2N": {
+        "name": "Mount Usher",
+        "lat": "53.0085",
+        "lon": "-6.108"
+    },
+    "GC37T93": {
+        "name": "Muckross Abbey View",
+        "lat": "52.026067",
+        "lon": "-9.49755"
+    },
+    "GC5JT3J": {
+        "name": "muckross gate",
+        "lat": "52.0259666666667",
+        "lon": "-9.48995"
+    },
+    "GC6GJFP": {
+        "name": "Natuurgebied Schotsman",
+        "lat": "51.58265",
+        "lon": "3.661767"
+    },
+    "GCM7R6": {
+        "name": "Northside Pub Crawl",
+        "lat": "53.349883",
+        "lon": "-6.24935"
+    },
+    "GC6PPWM": {
+        "name": "Nostalgicus",
+        "lat": "52.244317",
+        "lon": "5.175917"
+    },
+    "GC5WKJ5": {
+        "name": "Oranges and Lemons",
+        "lat": "51.513033",
+        "lon": "-0.114183"
+    },
+    "GC3JR3B": {
+        "name": "Over the Water: Barracks view",
+        "lat": "51.950083",
+        "lon": "-10.229283"
+    },
+    "GCF17A": {
+        "name": "Peace on the Rim",
+        "lat": "36.072533",
+        "lon": "-112.166533"
+    },
+    "GC33J7M": {
+        "name": "PEMM-1",
+        "lat": "39.7688666666667",
+        "lon": "2.69801666666667"
+    },
+    "GC72M3V": {
+        "name": "Pit Stop Series: N22 Pike Wood",
+        "lat": "52.057783",
+        "lon": "-9.470333"
+    },
+    "GC1KEZZ": {
+        "name": "Pit-Stop Series: N22 The Unicorn",
+        "lat": "51.98735",
+        "lon": "-9.2959"
+    },
+    "GC61VT0": {
+        "name": "Power Challenge 2015",
+        "lat": "52.001217",
+        "lon": "-9.505217"
+    },
+    "GC7261Z": {
+        "name": "05-Paw Patrol - Into the Woods",
+        "lat": "51.351131",
+        "lon": "-0.004897"
+    },
+    "GC728A7": {
+        "name": "13-Paw Patrol - Into the Woods",
+        "lat": "51.354353",
+        "lon": "-0.007926"
+    },
+    "GC5RAKQ": {
+        "name": "Pyrtle Springs",
+        "lat": "51.714783",
+        "lon": "-0.8278"
+    },
+    "GC3GP6M": {
+        "name": "Red Phone Box #33 - Churt Rd, Beacon Hill",
+        "lat": "51.122",
+        "lon": "-0.75415"
+    },
+    "GC1AQ1F": {
+        "name": "Reenroe Beach",
+        "lat": "51.845383",
+        "lon": "-10.221017"
+    },
+    "GC70EF9": {
+        "name": "Royal Air Force Station Kenley",
+        "lat": "51.301967",
+        "lon": "-0.09935"
+    },
+    "GC3T7N1": {
+        "name": "S.S. Richard Montgomery",
+        "lat": "51.465833",
+        "lon": "0.719717"
+    },
+    "GC71JV5": {
+        "name": "Sanderstead Sunset",
+        "lat": "51.335917",
+        "lon": "-0.07765"
+    },
+    "GC5E5M6": {
+        "name": "Save Travels",
+        "lat": "51.862483",
+        "lon": "4.325333"
+    },
+    "GC66Q06": {
+        "name": "SideTracked - London Victoria",
+        "lat": "51.494483",
+        "lon": "-0.142417"
+    },
+    "GC618": {
+        "name": "Siebengebirge",
+        "lat": "50.68125",
+        "lon": "7.249"
+    },
+    "GC52N53": {
+        "name": "Sindry\u00b4s View",
+        "lat": "39.784817",
+        "lon": "2.685533"
+    },
+    "GC7C3MV": {
+        "name": "Six Lakes Overlook",
+        "lat": "37.59955",
+        "lon": "-119.02155"
+    },
+    "GCJJVZ": {
+        "name": "Southside Pub Crawl",
+        "lat": "53.346917",
+        "lon": "-6.25535"
+    },
+    "GC1Q1DK": {
+        "name": "Spot the Island",
+        "lat": "51.0590333333333",
+        "lon": "-4.15496666666667"
+    },
+    "GC6R0M5": {
+        "name": "St Finnians Bay - Skelligs View",
+        "lat": "51.846317",
+        "lon": "-10.335817"
+    },
+    "GC726YK": {
+        "name": "Statsfield A : 4.5\/3.5 - Dead or Alive",
+        "lat": "51.286567",
+        "lon": "-0.022467"
+    },
+    "GC701DJ": {
+        "name": "Statsfield C 2.0 \/ 2.0 Mr Tumnus",
+        "lat": "51.316517",
+        "lon": "-0.026083"
+    },
+    "GC701EP": {
+        "name": "Statsfield C 2.5\/1.5 Mr & Mrs Beaver",
+        "lat": "51.314233",
+        "lon": "-0.02865"
+    },
+    "GC71VWE": {
+        "name": "Statsfield D : 1.5\/3.5 - Yew know yew love them!",
+        "lat": "51.30455",
+        "lon": "0.032667"
+    },
+    "GC71M4B": {
+        "name": "Statsfield D 2.0\/ 2.5 Slug Slide",
+        "lat": "51.307683",
+        "lon": "0.01415"
+    },
+    "GC6H2XT": {
+        "name": "Statsfield P : 5\/2 - A Geohound's Tale",
+        "lat": "51.294617",
+        "lon": "0.016367"
+    },
+    "GCE388": {
+        "name": "Stiffy By The Liffey ",
+        "lat": "53.349933",
+        "lon": "-6.260183"
+    },
+    "GC56JM7": {
+        "name": "Surprisingly Large",
+        "lat": "50.800917",
+        "lon": "0.163783"
+    },
+    "GC1C1BK": {
+        "name": "Symmetry N51 BH1",
+        "lat": "51.247517",
+        "lon": "-0.247517"
+    },
+    "GC6N2Q3": {
+        "name": "The Hustler",
+        "lat": "50.856167",
+        "lon": "0.224483"
+    },
+    "GC6V2G8": {
+        "name": "The Magic Faraway Tree - Extreme Tree Climb",
+        "lat": "51.22325",
+        "lon": "-0.1877"
+    },
+    "GC5Q9RK": {
+        "name": "The Mysterious Flock (NT Trek 1)",
+        "lat": "51.1464",
+        "lon": "-3.98825"
+    },
+    "GC1Y6QR": {
+        "name": "The Rock Of Cache",
+        "lat": "52.524417",
+        "lon": "-7.885767"
+    },
+    "GC52GET": {
+        "name": "This Is Near, But The One Out The Road Is Far Away",
+        "lat": "52.519517",
+        "lon": "-7.890067"
+    },
+    "GC75E1E": {
+        "name": "Time to play  (gadget game & tb hotel)",
+        "lat": "51.558817",
+        "lon": "3.799783"
+    },
+    "GC1ZTWW": {
+        "name": "TOFANA DI ROZES ferrata\u00b4s cache :-)",
+        "lat": "46.526",
+        "lon": "12.030783"
+    },
+    "GC3QV9G": {
+        "name": "Torc Bridge",
+        "lat": "52.000567",
+        "lon": "-9.506333"
+    },
+    "GC5A7DW": {
+        "name": "Trafalgar Square",
+        "lat": "51.50805",
+        "lon": "-0.12885"
+    },
+    "GC6XJ1R": {
+        "name": "University of Sussex Tree Cache",
+        "lat": "50.866317",
+        "lon": "-0.08205"
+    },
+    "GC67JFG": {
+        "name": "Warnham Way 1 - It's Roundabout Here",
+        "lat": "51.0884",
+        "lon": "-0.349467"
+    },
+    "GC2FJDD": {
+        "name": "Woggle Walk - Waterfall",
+        "lat": "53.134983",
+        "lon": "-3.862933"
+    }
+}
