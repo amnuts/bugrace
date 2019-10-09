@@ -608,5 +608,2950 @@
         "name": "Woggle Walk - Waterfall",
         "lat": "53.134983",
         "lon": "-3.862933"
+    },
+    "GC692AQ": {
+        "name": "#18 BM: 'Tussendoortje'",
+        "lat": 51.1164,
+        "lon": 4.64408
+    },
+    "GC692AK": {
+        "name": "#17 BM: 'Grasweide'",
+        "lat": 51.11593,
+        "lon": 4.63963
+    },
+    "GC6WWW9": {
+        "name": "8. Django's wandeling",
+        "lat": 51.12792,
+        "lon": 4.74343
+    },
+    "GC69VMX": {
+        "name": "2# De Beerslaan",
+        "lat": 51.12314,
+        "lon": 4.6781
+    },
+    "GC4YYEH": {
+        "name": "The old graveyard",
+        "lat": 51.11653,
+        "lon": 4.66097
+    },
+    "GC6JA2B": {
+        "name": "#23 BM: 'Solleveld'",
+        "lat": 51.11735,
+        "lon": 4.66533
+    },
+    "GC50QGR": {
+        "name": "Met STIP op de kaart \u2026 Berlaar",
+        "lat": 51.1175,
+        "lon": 4.65583
+    },
+    "GC6TQ2A": {
+        "name": "Amaai mijn ballen!!!",
+        "lat": 51.095,
+        "lon": 4.67167
+    },
+    "GC6KR8C": {
+        "name": "#27 BM: 'EXTRA 2'",
+        "lat": 51.12166,
+        "lon": 4.66999
+    },
+    "GC6BBTM": {
+        "name": "#26 BM: 'EXTRA 1'",
+        "lat": 51.12166,
+        "lon": 4.66666
+    },
+    "GC6JA3K": {
+        "name": "#25 BM: 'BONUS'",
+        "lat": 51.11955,
+        "lon": 4.65981
+    },
+    "GC6KXVQ": {
+        "name": "#28 BM: 'EXTRA 3'",
+        "lat": 51.12166,
+        "lon": 4.67499
+    },
+    "GC6WX7D": {
+        "name": "Bonus Django's wandeling",
+        "lat": 51.13333,
+        "lon": 4.73333
+    },
+    "GC63QQK": {
+        "name": "#1 BM: 'Gestel'",
+        "lat": 51.12775,
+        "lon": 4.67491
+    },
+    "GC6BBPK": {
+        "name": "#20 BM: 't Heilig Hoekske",
+        "lat": 51.11348,
+        "lon": 4.65025
+    },
+    "GC6AQ30": {
+        "name": "#5 BM: 'Av\u00e9 Maria'",
+        "lat": 51.11853,
+        "lon": 4.66391
+    },
+    "GC63QVF": {
+        "name": "#2 BM: 'Hof van Rameyen'",
+        "lat": 51.12243,
+        "lon": 4.68275
+    },
+    "GC65YRQ": {
+        "name": "#7 BM: 'De Markt'",
+        "lat": 51.11798,
+        "lon": 4.65828
+    },
+    "GC68HAV": {
+        "name": "#11 BM: 'Het station'",
+        "lat": 51.11335,
+        "lon": 4.6395
+    },
+    "GC69265": {
+        "name": "#13 BM: 'SK BERLAAR'",
+        "lat": 51.10931,
+        "lon": 4.63884
+    },
+    "GC692A1": {
+        "name": "#16 BM: 'Rond de buren'",
+        "lat": 51.10948,
+        "lon": 4.63255
+    },
+    "GC6M0TN": {
+        "name": "#22 BM: 'Het kapelletje II'",
+        "lat": 51.11522,
+        "lon": 4.66522
+    },
+    "GC6WWVM": {
+        "name": "7. Django's wandeling",
+        "lat": 51.12696,
+        "lon": 4.74095
+    },
+    "GC6WWTN": {
+        "name": "5. Django's wandeling",
+        "lat": 51.12788,
+        "lon": 4.73675
+    },
+    "GC6WWRJ": {
+        "name": "3. Django's wandeling",
+        "lat": 51.1302,
+        "lon": 4.73081
+    },
+    "GC6WWPB": {
+        "name": "1. Django's wandeling",
+        "lat": 51.13483,
+        "lon": 4.72724
+    },
+    "GC5JK63": {
+        "name": "S on #3: Simpel... of niet? #3 : Heidestraat",
+        "lat": 51.08991,
+        "lon": 4.66574
+    },
+    "GC5M818": {
+        "name": "2 - De receptie",
+        "lat": 51.10853,
+        "lon": 4.6605
+    },
+    "GC5JK8V": {
+        "name": "S on #6: Simpel... of niet? #6 Melkouwenstraat",
+        "lat": 51.09067,
+        "lon": 4.67961
+    },
+    "GC5JK9A": {
+        "name": "S on #7: Simpel... of niet? #7 : Voetgangerstunnel",
+        "lat": 51.08891,
+        "lon": 4.68203
+    },
+    "GC5JK7A": {
+        "name": "S on #4: Simpel... of niet? #4: Kapellelei",
+        "lat": 51.08939,
+        "lon": 4.67164
+    },
+    "GC5JK9W": {
+        "name": "S on #8: Simpel... of niet? #8 : \"Achter 't Bos\"",
+        "lat": 51.08783,
+        "lon": 4.6792
+    },
+    "GC5JKAA": {
+        "name": "S on #9: Simpel... of niet? #9 : Bosweggeske",
+        "lat": 51.08494,
+        "lon": 4.67549
+    },
+    "GC5JKBT": {
+        "name": "S on #10: Simpel... of niet? #10 : Ossekop",
+        "lat": 51.08298,
+        "lon": 4.67552
+    },
+    "GC5JKCQ": {
+        "name": "S on #11: Simpel... of niet? #11 : Heistsebaan",
+        "lat": 51.08773,
+        "lon": 4.66122
+    },
+    "GC5JKDQ": {
+        "name": "S on #12: Simpel... of niet? #12 :Kapel Smidstraat",
+        "lat": 51.08548,
+        "lon": 4.655
+    },
+    "GC5JK82": {
+        "name": "S on #5: Simpel... of niet? #5 : Station Melkouwen",
+        "lat": 51.09495,
+        "lon": 4.67198
+    },
+    "GC5M7R4": {
+        "name": "3 - Shiba'kes Trackabel Hotel",
+        "lat": 51.11408,
+        "lon": 4.65838
+    },
+    "GC54FTX": {
+        "name": "6th Grade Mathematics",
+        "lat": 43.01151,
+        "lon": -89.42591
+    },
+    "GC81PJP": {
+        "name": "Let's Do a Little Socializing in January",
+        "lat": 43.0717,
+        "lon": -89.40808
+    },
+    "GC3G9Z2": {
+        "name": "Mother City Meander Series - South African Museum",
+        "lat": -33.92834,
+        "lon": 18.41563
+    },
+    "GC7W67V": {
+        "name": "Iziko Meteorites",
+        "lat": -33.92797,
+        "lon": 18.41537
+    },
+    "GC7B764": {
+        "name": "Company's Garden",
+        "lat": -33.92516,
+        "lon": 18.41893
+    },
+    "GC1J8P2": {
+        "name": "Mabula",
+        "lat": -24.74257,
+        "lon": 27.91234
+    },
+    "GC1F7J6": {
+        "name": "Mabula Rocks",
+        "lat": -24.74516,
+        "lon": 27.91228
+    },
+    "GC55FBV": {
+        "name": "Changes in Longitude Challenge: 150 Degrees",
+        "lat": 38.8917,
+        "lon": -77.21307
+    },
+    "GC840GC": {
+        "name": "3.14159265358979323 Day Social :)",
+        "lat": 43.03546,
+        "lon": -89.40865
+    },
+    "GC2KEDP": {
+        "name": "Blacklaws Stumpy",
+        "lat": 42.33879,
+        "lon": -89.15591
+    },
+    "GC48EPA": {
+        "name": "\"88\"",
+        "lat": 42.37005,
+        "lon": -89.03027
+    },
+    "GC48XMB": {
+        "name": "Go Fish",
+        "lat": 42.37809,
+        "lon": -89.02452
+    },
+    "GC493HB": {
+        "name": "Red Gas Station",
+        "lat": 42.38261,
+        "lon": -89.01904
+    },
+    "GC37CK2": {
+        "name": "11-11-11 #4",
+        "lat": 42.32511,
+        "lon": -89.02607
+    },
+    "GC7R6E5": {
+        "name": "Little Free Library Charter #14981",
+        "lat": 43.01203,
+        "lon": -89.43847
+    },
+    "GC84PG9": {
+        "name": "Pi Day Sudoku 2019",
+        "lat": 43.03516,
+        "lon": -89.40834
+    },
+    "GC49RAM": {
+        "name": "A series of Dead Ends #2",
+        "lat": 43.15986,
+        "lon": -89.53237
+    },
+    "GC7WMBD": {
+        "name": "Lover\u2019s Lane",
+        "lat": 43.21218,
+        "lon": -89.60133
+    },
+    "GC46YQT": {
+        "name": "Welcome to Sauk City",
+        "lat": 43.27091,
+        "lon": -89.72144
+    },
+    "GC4AJF8": {
+        "name": "Welcome to Delicious!",
+        "lat": 43.27031,
+        "lon": -89.72984
+    },
+    "GCQG6B": {
+        "name": "One Ring Circus",
+        "lat": 43.4486,
+        "lon": -89.76846
+    },
+    "GC7XH9Q": {
+        "name": "WFP18: A New Dead End",
+        "lat": 43.43241,
+        "lon": -89.7757
+    },
+    "GC4N1DY": {
+        "name": "Devil's Lake North Entrance--Panoramic Resort",
+        "lat": 43.4344,
+        "lon": -89.73899
+    },
+    "GC4N1FW": {
+        "name": "Devil's Lake: WGA State Park Series",
+        "lat": 43.43026,
+        "lon": -89.7335
+    },
+    "GC20PWY": {
+        "name": "The BIG Top",
+        "lat": 43.45283,
+        "lon": -89.7427
+    },
+    "GCT663": {
+        "name": "The Illinois All County Challenge",
+        "lat": 40.73333,
+        "lon": -89.55
+    },
+    "GC6FYT5": {
+        "name": "Tower View",
+        "lat": 42.77466,
+        "lon": -89.04907
+    },
+    "GC6NYXG": {
+        "name": "Caching Illinois North to South Challenge",
+        "lat": 39.15021,
+        "lon": -88.50804
+    },
+    "GC85003": {
+        "name": "May the Fourth Be With You!",
+        "lat": 43.03549,
+        "lon": -89.41001
+    },
+    "GC15VYD": {
+        "name": "Another I-74 Rest Stop Cache -eastbound",
+        "lat": 40.27335,
+        "lon": -88.67819
+    },
+    "GC5ANV5": {
+        "name": "Bent Arrow East",
+        "lat": 40.2716,
+        "lon": -88.67524
+    },
+    "GC48WC8": {
+        "name": "Dave Thinks Your Hungry",
+        "lat": 39.48479,
+        "lon": -88.32998
+    },
+    "GC3CVN7": {
+        "name": "GS - Hoosier Land TB Hotel",
+        "lat": 38.19657,
+        "lon": -87.91462
+    },
+    "GC1P1VY": {
+        "name": "The Deadliest Cache",
+        "lat": 38.15759,
+        "lon": -87.55519
+    },
+    "GC4C2M7": {
+        "name": "2nd Round: Guardrail vs. Gorilla",
+        "lat": 38.15938,
+        "lon": -87.54571
+    },
+    "GC5C91A": {
+        "name": "Insane in the Membrane",
+        "lat": 38.15988,
+        "lon": -87.55028
+    },
+    "GC2H6H7": {
+        "name": "Park & Ride Travel Bug Hotel",
+        "lat": 38.19583,
+        "lon": -87.03579
+    },
+    "GC6TZ45": {
+        "name": "#10 Abe's Hat",
+        "lat": 38.17396,
+        "lon": -87.02775
+    },
+    "GC6TYHM": {
+        "name": "#16 - Abe\u2019s Hat",
+        "lat": 38.15382,
+        "lon": -87.03055
+    },
+    "GC6TYJ0": {
+        "name": "#14 - Abe\u2019s Hat",
+        "lat": 38.16071,
+        "lon": -87.03023
+    },
+    "GC6TZ47": {
+        "name": "#11 Abe's Hat",
+        "lat": 38.17053,
+        "lon": -87.02859
+    },
+    "GC6TZ4F": {
+        "name": "#12 Abe's Hat",
+        "lat": 38.1667,
+        "lon": -87.02942
+    },
+    "GC6TXTE": {
+        "name": "#13 - Abe\u2019s Hat",
+        "lat": 38.16387,
+        "lon": -87.02969
+    },
+    "GC6TWGJ": {
+        "name": "#49 - Abe's Hat",
+        "lat": 38.17118,
+        "lon": -87.07744
+    },
+    "GC6TWGM": {
+        "name": "#50 - Abe's Hat",
+        "lat": 38.1743,
+        "lon": -87.07785
+    },
+    "GC6TZ3Z": {
+        "name": "#9 Abe's Hat",
+        "lat": 38.17746,
+        "lon": -87.02685
+    },
+    "GC6TYHW": {
+        "name": "#15 - Abe\u2019s Hat",
+        "lat": 38.1572,
+        "lon": -87.03059
+    },
+    "GC6TY42": {
+        "name": "#21 - Abe\u2019s Hat",
+        "lat": 38.14303,
+        "lon": -87.02213
+    },
+    "GC6TW6K": {
+        "name": "#46 - Abe's Hat",
+        "lat": 38.16171,
+        "lon": -87.07682
+    },
+    "GC6TZ0R": {
+        "name": "#4 Abe's Hat",
+        "lat": 38.18053,
+        "lon": -87.06031
+    },
+    "GC6TY4H": {
+        "name": "#22 - Abe\u2019s Hat",
+        "lat": 38.1409,
+        "lon": -87.01972
+    },
+    "GC6TY52": {
+        "name": "#23 - Abe\u2019s Hat",
+        "lat": 38.13881,
+        "lon": -87.02257
+    },
+    "GC6TYHA": {
+        "name": "#18 - Abe\u2019s Hat",
+        "lat": 38.14701,
+        "lon": -87.03062
+    },
+    "GC6TWFE": {
+        "name": "#47 - Abe's Hat",
+        "lat": 38.16504,
+        "lon": -87.07679
+    },
+    "GC6TY8V": {
+        "name": "#2 Abe's Hat",
+        "lat": 38.17951,
+        "lon": -87.07311
+    },
+    "GC6TWGF": {
+        "name": "#48 - Abe's Hat",
+        "lat": 38.16826,
+        "lon": -87.0771
+    },
+    "GC5WYJA": {
+        "name": "Smells like chicken\/ribs",
+        "lat": 38.1581,
+        "lon": -87.07163
+    },
+    "GC6TXXW": {
+        "name": "#1 Abe's Hat",
+        "lat": 38.17841,
+        "lon": -87.07886
+    },
+    "GC6TWG1": {
+        "name": "#42 - Abe's Hat",
+        "lat": 38.1472,
+        "lon": -87.07595
+    },
+    "GC6TWG3": {
+        "name": "#43 - Abe's Hat",
+        "lat": 38.15064,
+        "lon": -87.07582
+    },
+    "GC6TWFT": {
+        "name": "#40 - Abe's Hat",
+        "lat": 38.14425,
+        "lon": -87.08027
+    },
+    "GC6V0GP": {
+        "name": "#36 - Abe's Hat",
+        "lat": 38.13854,
+        "lon": -87.08249
+    },
+    "GC6TWFJ": {
+        "name": "#37 - Abe's Hat",
+        "lat": 38.14066,
+        "lon": -87.08599
+    },
+    "GC6V0F1": {
+        "name": "#28 - Abe's Hat",
+        "lat": 38.13509,
+        "lon": -87.04468
+    },
+    "GC6V08D": {
+        "name": "#26 - Abe's Hat",
+        "lat": 38.13602,
+        "lon": -87.0352
+    },
+    "GC6V06R": {
+        "name": "#25 - Abe's Hat",
+        "lat": 38.13667,
+        "lon": -87.03052
+    },
+    "GC6TY2R": {
+        "name": "#24 - Abe\u2019s Hat",
+        "lat": 38.13734,
+        "lon": -87.0267
+    },
+    "GC6V0EV": {
+        "name": "#27 - Abe's Hat",
+        "lat": 38.13548,
+        "lon": -87.04049
+    },
+    "GC6V0GJ": {
+        "name": "#35 - Abe's Hat",
+        "lat": 38.13733,
+        "lon": -87.07818
+    },
+    "GC6TY5T": {
+        "name": "#19 - Abe\u2019s Hat",
+        "lat": 38.1433,
+        "lon": -87.03074
+    },
+    "GC6V0F8": {
+        "name": "#29 - Abe's Hat",
+        "lat": 38.13478,
+        "lon": -87.05
+    },
+    "GC6TWFY": {
+        "name": "#41 - Abe's Hat",
+        "lat": 38.14383,
+        "lon": -87.07604
+    },
+    "GC6V0FK": {
+        "name": "#30 - Abe's Hat",
+        "lat": 38.13493,
+        "lon": -87.05389
+    },
+    "GC6V0FZ": {
+        "name": "#32 - Abe's Hat",
+        "lat": 38.1357,
+        "lon": -87.06338
+    },
+    "GC6V0G5": {
+        "name": "#33 - Abe's Hat",
+        "lat": 38.13597,
+        "lon": -87.0681
+    },
+    "GC6V0FR": {
+        "name": "#31 - Abe's Hat",
+        "lat": 38.13502,
+        "lon": -87.05822
+    },
+    "GC6V0GG": {
+        "name": "#34 - Abe's Hat",
+        "lat": 38.13641,
+        "lon": -87.07304
+    },
+    "GC6TWFK": {
+        "name": "#38 - Abe's Hat",
+        "lat": 38.14316,
+        "lon": -87.08722
+    },
+    "GC6TWFP": {
+        "name": "#39 - Abe's Hat",
+        "lat": 38.14413,
+        "lon": -87.08419
+    },
+    "GC6TYHH": {
+        "name": "#17 - Abe\u2019s Hat",
+        "lat": 38.15046,
+        "lon": -87.03058
+    },
+    "GC6TY5F": {
+        "name": "#20 - Abe\u2019s Hat",
+        "lat": 38.14311,
+        "lon": -87.02713
+    },
+    "GC6TZ16": {
+        "name": "#5 Abe's Hat",
+        "lat": 38.18059,
+        "lon": -87.05333
+    },
+    "GC6TW68": {
+        "name": "#45 - Abe's Hat",
+        "lat": 38.15811,
+        "lon": -87.07629
+    },
+    "GC2TKBT": {
+        "name": "Momma D's B-day Cache",
+        "lat": 38.15831,
+        "lon": -87.11359
+    },
+    "GC6TY9P": {
+        "name": "#3 Abe's Hat",
+        "lat": 38.18007,
+        "lon": -87.06615
+    },
+    "GC6VRMX": {
+        "name": "Backroads",
+        "lat": 38.17606,
+        "lon": -87.04922
+    },
+    "GC6TZ1F": {
+        "name": "#7 Abe's Hat",
+        "lat": 38.18023,
+        "lon": -87.03906
+    },
+    "GC6TZ1R": {
+        "name": "#8 Abe's Hat",
+        "lat": 38.17857,
+        "lon": -87.03083
+    },
+    "GC6TZ1A": {
+        "name": "#6 Abe's Hat",
+        "lat": 38.1806,
+        "lon": -87.04722
+    },
+    "GC4QJ3J": {
+        "name": "Clark Cemetery",
+        "lat": 38.11671,
+        "lon": -87.08191
+    },
+    "GC49K70": {
+        "name": "Non Challenging Challenge Cache",
+        "lat": 37.93808,
+        "lon": -86.98351
+    },
+    "GC6X1DF": {
+        "name": "Dark Knight #53",
+        "lat": 38.30763,
+        "lon": -87.33689
+    },
+    "GC6X1DG": {
+        "name": "Dark Knight #54",
+        "lat": 38.31191,
+        "lon": -87.33731
+    },
+    "GC6X1CG": {
+        "name": "Dark Knight #50",
+        "lat": 38.2992,
+        "lon": -87.32754
+    },
+    "GC6X1DM": {
+        "name": "Dark Knight #55",
+        "lat": 38.30799,
+        "lon": -87.33988
+    },
+    "GC6X1CW": {
+        "name": "Dark Knight #52",
+        "lat": 38.30354,
+        "lon": -87.33569
+    },
+    "GC6WV09": {
+        "name": "Dark Knight #2",
+        "lat": 38.30755,
+        "lon": -87.34762
+    },
+    "GC6WZYG": {
+        "name": "Dark Knight #3",
+        "lat": 38.30342,
+        "lon": -87.34892
+    },
+    "GC6X1CN": {
+        "name": "Dark Knight #51",
+        "lat": 38.30008,
+        "lon": -87.33274
+    },
+    "GC6WZYR": {
+        "name": "Dark Knight #4",
+        "lat": 38.29993,
+        "lon": -87.35205
+    },
+    "GC6X1BW": {
+        "name": "Dark Knight #46",
+        "lat": 38.309,
+        "lon": -87.31952
+    },
+    "GC6WZZ0": {
+        "name": "Dark Knight #5",
+        "lat": 38.29918,
+        "lon": -87.35738
+    },
+    "GC6WZZ9": {
+        "name": "Dark Knight #6",
+        "lat": 38.3019,
+        "lon": -87.36158
+    },
+    "GC6WZZG": {
+        "name": "Dark Knight #7",
+        "lat": 38.30604,
+        "lon": -87.36234
+    },
+    "GC6WZZN": {
+        "name": "Dark Knight #8",
+        "lat": 38.31009,
+        "lon": -87.36049
+    },
+    "GC6X04N": {
+        "name": "Dark Knight #15",
+        "lat": 38.28966,
+        "lon": -87.38439
+    },
+    "GC6X04R": {
+        "name": "Dark Knight #16",
+        "lat": 38.28538,
+        "lon": -87.38223
+    },
+    "GC6X1C2": {
+        "name": "Dark Knight #48",
+        "lat": 38.30608,
+        "lon": -87.32207
+    },
+    "GC6X1C5": {
+        "name": "Dark Knight #49",
+        "lat": 38.30178,
+        "lon": -87.32294
+    },
+    "GC6X1BZ": {
+        "name": "Dark Knight #47",
+        "lat": 38.31021,
+        "lon": -87.32412
+    },
+    "GC6X01K": {
+        "name": "Dark Knight #9",
+        "lat": 38.30883,
+        "lon": -87.36567
+    },
+    "GC6X0WC": {
+        "name": "Dark Knight #43",
+        "lat": 38.30305,
+        "lon": -87.30701
+    },
+    "GC6X034": {
+        "name": "Dark Knight #10",
+        "lat": 38.30691,
+        "lon": -87.37066
+    },
+    "GC6X0W1": {
+        "name": "Dark Knight #42",
+        "lat": 38.30006,
+        "lon": -87.30329
+    },
+    "GC6X042": {
+        "name": "Dark Knight #12",
+        "lat": 38.30168,
+        "lon": -87.37958
+    },
+    "GC6X03Q": {
+        "name": "Dark Knight #11",
+        "lat": 38.3045,
+        "lon": -87.37542
+    },
+    "GC6X0WP": {
+        "name": "Dark Knight #44",
+        "lat": 38.30559,
+        "lon": -87.31135
+    },
+    "GC6X047": {
+        "name": "Dark Knight #13",
+        "lat": 38.29815,
+        "lon": -87.38281
+    },
+    "GC6X1BV": {
+        "name": "Dark Knight #45",
+        "lat": 38.30745,
+        "lon": -87.31542
+    },
+    "GC6X069": {
+        "name": "Dark Knight #25",
+        "lat": 38.2838,
+        "lon": -87.3483
+    },
+    "GC6X0V8": {
+        "name": "Dark Knight #38",
+        "lat": 38.28419,
+        "lon": -87.30318
+    },
+    "GC6X0VF": {
+        "name": "Dark Knight #39",
+        "lat": 38.28798,
+        "lon": -87.30071
+    },
+    "GC6X0TZ": {
+        "name": "Dark Knight #37",
+        "lat": 38.28108,
+        "lon": -87.30722
+    },
+    "GC6X0VK": {
+        "name": "Dark Knight #40",
+        "lat": 38.29218,
+        "lon": -87.29987
+    },
+    "GC6X0VR": {
+        "name": "Dark Knight #41",
+        "lat": 38.29633,
+        "lon": -87.3008
+    },
+    "GC6X08F": {
+        "name": "Dark Knight #31",
+        "lat": 38.28238,
+        "lon": -87.3273
+    },
+    "GC6X06E": {
+        "name": "Dark Knight #26",
+        "lat": 38.28017,
+        "lon": -87.34479
+    },
+    "GC6X0TR": {
+        "name": "Dark Knight #36",
+        "lat": 38.27886,
+        "lon": -87.3119
+    },
+    "GC6X04J": {
+        "name": "Dark Knight #14",
+        "lat": 38.29399,
+        "lon": -87.3845
+    },
+    "GC6X05B": {
+        "name": "Dark Knight #20",
+        "lat": 38.28115,
+        "lon": -87.36941
+    },
+    "GC6X05X": {
+        "name": "Dark Knight #23",
+        "lat": 38.28223,
+        "lon": -87.35699
+    },
+    "GC6X05Q": {
+        "name": "Dark Knight #22",
+        "lat": 38.2853,
+        "lon": -87.36201
+    },
+    "GC6X063": {
+        "name": "Dark Knight #24",
+        "lat": 38.28547,
+        "lon": -87.3535
+    },
+    "GC6X05K": {
+        "name": "Dark Knight #21",
+        "lat": 38.28528,
+        "lon": -87.36769
+    },
+    "GC6X04W": {
+        "name": "Dark Knight #17",
+        "lat": 38.28198,
+        "lon": -87.37887
+    },
+    "GC6X08J": {
+        "name": "Dark Knight #32",
+        "lat": 38.28503,
+        "lon": -87.3229
+    },
+    "GC6X056": {
+        "name": "Dark Knight #19",
+        "lat": 38.2771,
+        "lon": -87.3675
+    },
+    "GC6X051": {
+        "name": "Dark Knight #18",
+        "lat": 38.27904,
+        "lon": -87.37342
+    },
+    "GC6X06N": {
+        "name": "Dark Knight #27",
+        "lat": 38.27634,
+        "lon": -87.34225
+    },
+    "GC6X06R": {
+        "name": "Dark Knight #28",
+        "lat": 38.28018,
+        "lon": -87.33962
+    },
+    "GC6X083": {
+        "name": "Dark Knight #29",
+        "lat": 38.2836,
+        "lon": -87.33625
+    },
+    "GC6X086": {
+        "name": "Dark Knight #30",
+        "lat": 38.28556,
+        "lon": -87.33124
+    },
+    "GC6X0TJ": {
+        "name": "Dark Knight #35",
+        "lat": 38.27716,
+        "lon": -87.31711
+    },
+    "GC6X08T": {
+        "name": "Dark Knight #33",
+        "lat": 38.28534,
+        "lon": -87.31744
+    },
+    "GC6X08Y": {
+        "name": "Dark Knight #34",
+        "lat": 38.2813,
+        "lon": -87.31494
+    },
+    "GC6M5WQ": {
+        "name": "Hanging Around Sand Hill",
+        "lat": 38.40545,
+        "lon": -87.76923
+    },
+    "GC6NYXE": {
+        "name": "Welcome to Mount Carmel",
+        "lat": 38.43501,
+        "lon": -87.76891
+    },
+    "GC5ANTG": {
+        "name": "Fallen Heros",
+        "lat": 38.53024,
+        "lon": -87.71119
+    },
+    "GC22JGV": {
+        "name": "One Quick Rest",
+        "lat": 38.59039,
+        "lon": -87.69413
+    },
+    "GC64ZEH": {
+        "name": "James Monroe",
+        "lat": 38.62898,
+        "lon": -87.69463
+    },
+    "GC3E1WV": {
+        "name": "Welcome to Birds",
+        "lat": 38.83727,
+        "lon": -87.68359
+    },
+    "GC7A3FF": {
+        "name": "Cartoon Series #23",
+        "lat": 38.85223,
+        "lon": -87.68433
+    },
+    "GC7MVAK": {
+        "name": "Pill Bottle Run #15",
+        "lat": 38.9785,
+        "lon": -87.67023
+    },
+    "GC7MVAA": {
+        "name": "Pill Bottle Run #14",
+        "lat": 38.98025,
+        "lon": -87.67022
+    },
+    "GC7MV8Z": {
+        "name": "Pill Bottle Run #11",
+        "lat": 38.9857,
+        "lon": -87.67041
+    },
+    "GC7MV96": {
+        "name": "Pill Bottle Run #12",
+        "lat": 38.98405,
+        "lon": -87.67038
+    },
+    "GC7MV9F": {
+        "name": "Pill Bottle Run #13",
+        "lat": 38.98238,
+        "lon": -87.6704
+    },
+    "GC7MV8M": {
+        "name": "Pill Bottle Run #10",
+        "lat": 38.98723,
+        "lon": -87.6704
+    },
+    "GC3Q2BZ": {
+        "name": "Smokey Row School",
+        "lat": 39.00283,
+        "lon": -87.86211
+    },
+    "GC1Y0M5": {
+        "name": "Oblong Oil Museum",
+        "lat": 39.00235,
+        "lon": -87.9184
+    },
+    "GC1Y22M": {
+        "name": "Casey American Leqion Memorial",
+        "lat": 39.30398,
+        "lon": -87.99298
+    },
+    "GC7B8KF": {
+        "name": "BIG THINGS Are In Store!",
+        "lat": 39.29876,
+        "lon": -87.99357
+    },
+    "GC6QXA6": {
+        "name": "Say Hi to Dave",
+        "lat": 39.29861,
+        "lon": -87.99481
+    },
+    "GC65J0Z": {
+        "name": "Big Things in a Small Town",
+        "lat": 39.3272,
+        "lon": -87.9844
+    },
+    "GC5DE8": {
+        "name": "Hippie Memorial Cache",
+        "lat": 39.68539,
+        "lon": -88.30823
+    },
+    "GC7198": {
+        "name": "The Witch's Grave",
+        "lat": 39.7065,
+        "lon": -88.3867
+    },
+    "GC7Q14Q": {
+        "name": "Tour of CG #1",
+        "lat": 39.88463,
+        "lon": -88.72778
+    },
+    "GC3N82K": {
+        "name": "night light",
+        "lat": 39.9277,
+        "lon": -88.95775
+    },
+    "GC2CXN1": {
+        "name": "Tonica Nightmare cache, can u find it?",
+        "lat": 41.22123,
+        "lon": -89.06647
+    },
+    "GC2VDMF": {
+        "name": "Challenge: A Million Miles from Home",
+        "lat": 39.79982,
+        "lon": -86.00666
+    },
+    "GC3NZPH": {
+        "name": "Non-Traditional Challenge - 100 in 30 Days",
+        "lat": 39.35974,
+        "lon": -83.65721
+    },
+    "GC83TB9": {
+        "name": "BBQ School: Creation Celebration in the Country",
+        "lat": 41.76916,
+        "lon": -88.64084
+    },
+    "GC853TB": {
+        "name": "Cub Scout CITO",
+        "lat": 43.02765,
+        "lon": -89.30906
+    },
+    "GC54CFX": {
+        "name": "Grove Of Trees",
+        "lat": 42.77198,
+        "lon": -88.92333
+    },
+    "GC4JKQG": {
+        "name": "Welcome To Milton, WI",
+        "lat": 42.76921,
+        "lon": -88.92529
+    },
+    "GC7F7EZ": {
+        "name": "Road Ends at Hy 26 Series #8",
+        "lat": 42.76498,
+        "lon": -88.92472
+    },
+    "GCH38T": {
+        "name": "Mom's Cache",
+        "lat": 42.78116,
+        "lon": -88.91776
+    },
+    "GC1RYF8": {
+        "name": "Stepping Stones of Wood",
+        "lat": 42.78396,
+        "lon": -88.91662
+    },
+    "GC7ZVYY": {
+        "name": "Buffalo crossing",
+        "lat": 42.52577,
+        "lon": -89.21243
+    },
+    "GC6DT2H": {
+        "name": "At the beginning",
+        "lat": 42.55583,
+        "lon": -89.14259
+    },
+    "GC35JDK": {
+        "name": "MP City Park Series - Galle Park",
+        "lat": 42.85468,
+        "lon": -90.1791
+    },
+    "GC5Y0WT": {
+        "name": "Merry Christmas Mine",
+        "lat": 42.8612,
+        "lon": -90.17146
+    },
+    "GC5Y1EM": {
+        "name": "Ore Mill",
+        "lat": 42.85834,
+        "lon": -90.17069
+    },
+    "GC84YYD": {
+        "name": "Creation Celebration: Quality Round Table",
+        "lat": 43.05803,
+        "lon": -89.54931
+    },
+    "GC82JW3": {
+        "name": "FLC rides on",
+        "lat": 42.03056,
+        "lon": -91.66873
+    },
+    "GC7JJ10": {
+        "name": "J & K Geo-Art Heart #12",
+        "lat": 41.89577,
+        "lon": -90.65523
+    },
+    "GC7JJ42": {
+        "name": "J & K Geo-Art Heart #43",
+        "lat": 41.88906,
+        "lon": -90.65821
+    },
+    "GC7JJ0Z": {
+        "name": "J & K Geo-Art Heart #11",
+        "lat": 41.89416,
+        "lon": -90.65345
+    },
+    "GC7JHZF": {
+        "name": "J & K Geo-Art Heart #10",
+        "lat": 41.89238,
+        "lon": -90.65239
+    },
+    "GC7JHZB": {
+        "name": "J & K Geo-Art Heart #9",
+        "lat": 41.89003,
+        "lon": -90.65214
+    },
+    "GC7JHZ4": {
+        "name": "J & K Geo-Art Heart #8",
+        "lat": 41.88752,
+        "lon": -90.65301
+    },
+    "GC7JHYZ": {
+        "name": "J & K Geo-Art Heart #7",
+        "lat": 41.88552,
+        "lon": -90.65476
+    },
+    "GC7JHYW": {
+        "name": "J & K Geo-Art Heart #6",
+        "lat": 41.88363,
+        "lon": -90.65662
+    },
+    "GC7JJ1C": {
+        "name": "J & K Geo-Art Heart #16",
+        "lat": 41.89515,
+        "lon": -90.66465
+    },
+    "GC7JJ17": {
+        "name": "J & K Geo-Art Heart #14",
+        "lat": 41.89699,
+        "lon": -90.66017
+    },
+    "GC7JJ14": {
+        "name": "J & K Geo-Art Heart #13",
+        "lat": 41.89671,
+        "lon": -90.65754
+    },
+    "GC7JJ3B": {
+        "name": "J & K Geo-Art Heart #34",
+        "lat": 41.89073,
+        "lon": -90.6691
+    },
+    "GC7JJ1E": {
+        "name": "J & K Geo-Art Heart #17",
+        "lat": 41.89629,
+        "lon": -90.66689
+    },
+    "GC7JJ1G": {
+        "name": "J & K Geo-Art Heart #18",
+        "lat": 41.89701,
+        "lon": -90.66944
+    },
+    "GC7JJ1T": {
+        "name": "J & K Geo-Art Heart #22",
+        "lat": 41.89194,
+        "lon": -90.67714
+    },
+    "GC7JJ1P": {
+        "name": "J & K Geo-Art Heart #21",
+        "lat": 41.89407,
+        "lon": -90.67612
+    },
+    "GC7JJ1H": {
+        "name": "J & K Geo-Art Heart #19",
+        "lat": 41.89671,
+        "lon": -90.67215
+    },
+    "GC7JJ1M": {
+        "name": "J & K Geo-Art Heart #20",
+        "lat": 41.89562,
+        "lon": -90.67441
+    },
+    "GC7JJ1X": {
+        "name": "J & K Geo-Art Heart #23",
+        "lat": 41.88941,
+        "lon": -90.67724
+    },
+    "GC7JJ1A": {
+        "name": "J & K Geo-Art Heart #15",
+        "lat": 41.89638,
+        "lon": -90.66257
+    },
+    "GC7JJ39": {
+        "name": "J & K Geo-Art Heart #33",
+        "lat": 41.88923,
+        "lon": -90.66903
+    },
+    "GC7JJ2R": {
+        "name": "J & K Geo-Art Heart #31",
+        "lat": 41.88931,
+        "lon": -90.67168
+    },
+    "GC7JJ37": {
+        "name": "J & K Geo-Art Heart #32",
+        "lat": 41.88783,
+        "lon": -90.67022
+    },
+    "GC7JJ46": {
+        "name": "J & K Geo-Art Heart #45",
+        "lat": 41.89383,
+        "lon": -90.65681
+    },
+    "GC7JJ3X": {
+        "name": "J & K Geo-Art Heart #41",
+        "lat": 41.89398,
+        "lon": -90.66108
+    },
+    "GC7JJ3W": {
+        "name": "J & K Geo-Art Heart #40",
+        "lat": 41.89235,
+        "lon": -90.66104
+    },
+    "GC7JJ44": {
+        "name": "J & K Geo-Art Heart #44",
+        "lat": 41.89216,
+        "lon": -90.65877
+    },
+    "GC7JJ3T": {
+        "name": "J & K Geo-Art Heart #39",
+        "lat": 41.8908,
+        "lon": -90.66105
+    },
+    "GC7JJ3P": {
+        "name": "J & K Geo-Art Heart #38",
+        "lat": 41.88929,
+        "lon": -90.66106
+    },
+    "GC7JJ3M": {
+        "name": "J & K Geo-Art Heart #37",
+        "lat": 41.88773,
+        "lon": -90.66108
+    },
+    "GC7JJ3Z": {
+        "name": "J & K Geo-Art Heart #42",
+        "lat": 41.88766,
+        "lon": -90.65659
+    },
+    "GC7JJ3J": {
+        "name": "J & K Geo-Art Heart #36",
+        "lat": 41.8938,
+        "lon": -90.66909
+    },
+    "GC7JJ2M": {
+        "name": "J & K Geo-Art Heart #30",
+        "lat": 41.87733,
+        "lon": -90.66624
+    },
+    "GC7JHYT": {
+        "name": "J & K Geo-Art Heart #5",
+        "lat": 41.88189,
+        "lon": -90.65851
+    },
+    "GC7JHYJ": {
+        "name": "J & K Geo-Art Heart #3",
+        "lat": 41.87873,
+        "lon": -90.66164
+    },
+    "GC7JHYP": {
+        "name": "J & K Geo-Art Heart #4",
+        "lat": 41.88024,
+        "lon": -90.66021
+    },
+    "GC7JHYG": {
+        "name": "J & K Geo-Art Heart #2",
+        "lat": 41.87723,
+        "lon": -90.66317
+    },
+    "GC7JHYD": {
+        "name": "J & K Geo-Art Heart #1",
+        "lat": 41.87585,
+        "lon": -90.66469
+    },
+    "GC7JJ2E": {
+        "name": "J & K Geo-Art Heart #29",
+        "lat": 41.87911,
+        "lon": -90.66804
+    },
+    "GC7JJ2B": {
+        "name": "J & K Geo-Art Heart #28",
+        "lat": 41.88082,
+        "lon": -90.66975
+    },
+    "GC7JJ2A": {
+        "name": "J & K Geo-Art Heart #27",
+        "lat": 41.88223,
+        "lon": -90.67126
+    },
+    "GC7JJ25": {
+        "name": "J & K Geo-Art Heart #26",
+        "lat": 41.88372,
+        "lon": -90.67289
+    },
+    "GC7JJ20": {
+        "name": "J & K Geo-Art Heart #24",
+        "lat": 41.88728,
+        "lon": -90.67639
+    },
+    "GC7JJ24": {
+        "name": "J & K Geo-Art Heart #25",
+        "lat": 41.88551,
+        "lon": -90.6748
+    },
+    "GC7JJ3F": {
+        "name": "J & K Geo-Art Heart #35",
+        "lat": 41.89221,
+        "lon": -90.66909
+    },
+    "GC5CNCG": {
+        "name": "The Art Challenge",
+        "lat": 38.32683,
+        "lon": -87.36878
+    },
+    "GC6ZR6E": {
+        "name": "oldest cache in 5 states or provinces challenge",
+        "lat": 42.52893,
+        "lon": -88.9824
+    },
+    "GC4A6G0": {
+        "name": "The Road to Beckman Mill #4",
+        "lat": 42.51001,
+        "lon": -89.17391
+    },
+    "GC6DRJB": {
+        "name": "Thank you Green Rock Audubon Society",
+        "lat": 42.55544,
+        "lon": -89.13149
+    },
+    "GC6DRKW": {
+        "name": "Raccoon Creek or Coon Creek?",
+        "lat": 42.55335,
+        "lon": -89.12979
+    },
+    "GC6DRNV": {
+        "name": "Are your feet wet yet?",
+        "lat": 42.55189,
+        "lon": -89.13435
+    },
+    "GC6DT3R": {
+        "name": "Briar patch",
+        "lat": 42.55333,
+        "lon": -89.13932
+    },
+    "GC6DRZW": {
+        "name": "No trolls here",
+        "lat": 42.55158,
+        "lon": -89.13943
+    },
+    "GC6DRWR": {
+        "name": "Sunsets from here are awesome",
+        "lat": 42.55011,
+        "lon": -89.14158
+    },
+    "GC75VD5": {
+        "name": "Reverse Wherigo - Stoughton",
+        "lat": 42.93813,
+        "lon": -89.22822
+    },
+    "GC212NT": {
+        "name": "GEC, Treasures of Scouting: Cache to Cub Scouts",
+        "lat": 43.03533,
+        "lon": -89.32828
+    },
+    "GC7Z504": {
+        "name": "Bodacious Biking Boardwalk",
+        "lat": 43.03458,
+        "lon": -89.32156
+    },
+    "GC86M44": {
+        "name": "About Halfway \/ Stateline",
+        "lat": 42.49803,
+        "lon": -89.24571
+    },
+    "GC863D6": {
+        "name": "Galena River Trail CITO Spring 2019",
+        "lat": 42.41006,
+        "lon": -90.42984
+    },
+    "GC71M4J": {
+        "name": "A cache with a view",
+        "lat": 42.79199,
+        "lon": -89.54098
+    },
+    "GC3JM3E": {
+        "name": "Albany Wildlife Area - #5",
+        "lat": 42.72859,
+        "lon": -89.51197
+    },
+    "GC3JFW6": {
+        "name": "Albany Wildlife Area - #4",
+        "lat": 42.72999,
+        "lon": -89.51374
+    },
+    "GC85WPV": {
+        "name": "Rock River Cachers May 2019 Monthly Meet and Geet",
+        "lat": 41.93451,
+        "lon": -89.05724
+    },
+    "GC6C4XR": {
+        "name": "Leap Day Froggie",
+        "lat": 42.9095,
+        "lon": -89.10093
+    },
+    "GC3C2A3": {
+        "name": "F R 6",
+        "lat": 43.16464,
+        "lon": -88.76194
+    },
+    "GC3C2A8": {
+        "name": "F R 7",
+        "lat": 43.16784,
+        "lon": -88.76444
+    },
+    "GC38HBP": {
+        "name": "F R 5 Round & Round",
+        "lat": 43.16241,
+        "lon": -88.75876
+    },
+    "GC38HBH": {
+        "name": "F R 4 River view",
+        "lat": 43.16091,
+        "lon": -88.75601
+    },
+    "GC38HA8": {
+        "name": "F R 1",
+        "lat": 43.154,
+        "lon": -88.74974
+    },
+    "GC38HB7": {
+        "name": "F R 2",
+        "lat": 43.15698,
+        "lon": -88.74845
+    },
+    "GC4AYQ3": {
+        "name": "Stop Spot S#2",
+        "lat": 43.21183,
+        "lon": -88.69424
+    },
+    "GC4FFR3": {
+        "name": "Stop Spot S#6",
+        "lat": 43.21151,
+        "lon": -88.68924
+    },
+    "GC26ZAZ": {
+        "name": "Erika's 02",
+        "lat": 43.21121,
+        "lon": -88.6315
+    },
+    "GC2F554": {
+        "name": "WSQ Wanderer's Rest",
+        "lat": 43.21663,
+        "lon": -88.62997
+    },
+    "GC4BJ0P": {
+        "name": "Stop Spot S#4",
+        "lat": 43.19724,
+        "lon": -88.68764
+    },
+    "GC1KECM": {
+        "name": "BGTRFD",
+        "lat": 42.20373,
+        "lon": -89.10432
+    },
+    "GC35JZA": {
+        "name": "Cousins the Sequel - Megan",
+        "lat": 42.17821,
+        "lon": -89.08982
+    },
+    "GC35JYW": {
+        "name": "Cousins the Sequel - Anna",
+        "lat": 42.17642,
+        "lon": -89.08452
+    },
+    "GC51B8R": {
+        "name": "Abby's Cache re-do!",
+        "lat": 42.168,
+        "lon": -89.07751
+    },
+    "GC2B491": {
+        "name": "\"Its Gnarly Dude\"",
+        "lat": 42.02122,
+        "lon": -89.06271
+    },
+    "GC39413": {
+        "name": "\"Hub City\" Png 1",
+        "lat": 41.90987,
+        "lon": -89.0681
+    },
+    "GC3E9C6": {
+        "name": "Lulu's Cottage",
+        "lat": 41.91022,
+        "lon": -89.0617
+    },
+    "GC7B70W": {
+        "name": "\"I Hear That Train Comin'\"",
+        "lat": 41.92028,
+        "lon": -89.07267
+    },
+    "GC64T79": {
+        "name": "Pumpkin Air 1 (oh) 1",
+        "lat": 41.92078,
+        "lon": -89.07462
+    },
+    "GC3P657": {
+        "name": "John Deere NEVER DIES!",
+        "lat": 41.4893,
+        "lon": -94.3184
+    },
+    "GCQEVF": {
+        "name": "Patriotic Rock",
+        "lat": 41.47495,
+        "lon": -94.45154
+    },
+    "GC1FDZR": {
+        "name": "Itsy Bitsy Spider",
+        "lat": 41.4727,
+        "lon": -95.33633
+    },
+    "GC4MW0G": {
+        "name": "CENTennial bench",
+        "lat": 41.2807,
+        "lon": -96.23314
+    },
+    "GC74BWT": {
+        "name": "GAME OF GNOMES (SAMWELL)",
+        "lat": 41.28521,
+        "lon": -96.2454
+    },
+    "GC943": {
+        "name": "GO BIG RED",
+        "lat": 40.91492,
+        "lon": -96.38759
+    },
+    "GC2GCHJ": {
+        "name": "More Light at The Grand Lodge of Kansas",
+        "lat": 39.05016,
+        "lon": -95.6782
+    },
+    "GC4J6WC": {
+        "name": "Pig Out",
+        "lat": 39.02252,
+        "lon": -94.65228
+    },
+    "GC7ZB6T": {
+        "name": "Bridge #21 - JoCo Bridges",
+        "lat": 38.96908,
+        "lon": -94.75214
+    },
+    "GC3NTG4": {
+        "name": "Burnt District",
+        "lat": 38.6513,
+        "lon": -94.36895
+    },
+    "GC7P6AR": {
+        "name": "Gem of Tightwad",
+        "lat": 38.30754,
+        "lon": -93.53754
+    },
+    "GCQM1Z": {
+        "name": "Swinging Bridge",
+        "lat": 38.24462,
+        "lon": -93.38714
+    },
+    "GC8700V": {
+        "name": "Little birdie on Winding Tree",
+        "lat": 38.10887,
+        "lon": -92.90767
+    },
+    "GC1MEJH": {
+        "name": "Watson School",
+        "lat": 38.11216,
+        "lon": -92.62009
+    },
+    "GC214B": {
+        "name": "Fawn Ridge",
+        "lat": 38.07705,
+        "lon": -92.57032
+    },
+    "GCB024": {
+        "name": "Laughing Waters Cache",
+        "lat": 37.97714,
+        "lon": -92.76961
+    },
+    "GC1G43E": {
+        "name": "Rockin' On Route 66",
+        "lat": 38.03756,
+        "lon": -91.46966
+    },
+    "GCWDXC": {
+        "name": "Animals Always",
+        "lat": 38.63343,
+        "lon": -90.28564
+    },
+    "GC7B650": {
+        "name": "ST. LOUIS ZOO Virtual Reward",
+        "lat": 38.63371,
+        "lon": -90.29145
+    },
+    "GC3PY5Q": {
+        "name": "Bridge to Terabithia",
+        "lat": 38.59346,
+        "lon": -90.36023
+    },
+    "GC89HFZ": {
+        "name": "Nobody Here But Us Geocachers",
+        "lat": 38.62095,
+        "lon": -90.49739
+    },
+    "GCG5R7": {
+        "name": "RT66:MO - A Cache for Hookers",
+        "lat": 37.85648,
+        "lon": -92.05991
+    },
+    "GC7EGZM": {
+        "name": "Monopoly Final - Chance",
+        "lat": 42.98999,
+        "lon": -88.265
+    },
+    "GC82HQ8": {
+        "name": "Obstacle Course",
+        "lat": 42.97953,
+        "lon": -88.20811
+    },
+    "GC87N8V": {
+        "name": "Fox Valley Road Rally 2019|We Come From The Water",
+        "lat": 44.15441,
+        "lon": -88.46826
+    },
+    "GC5HR0T": {
+        "name": "TV Romeo and Juliet",
+        "lat": 44.22323,
+        "lon": -88.49622
+    },
+    "GCRVN0": {
+        "name": "Splitting Headache",
+        "lat": 44.27733,
+        "lon": -88.46034
+    },
+    "GC2XRFY": {
+        "name": "Flags of Our Fathers | Flying with Honors",
+        "lat": 44.25175,
+        "lon": -88.41555
+    },
+    "GC1F0A3": {
+        "name": "Waterworks | Gaged Fox",
+        "lat": 44.24761,
+        "lon": -88.42311
+    },
+    "GC7K0D1": {
+        "name": "Gremmit's Treasure Chest",
+        "lat": 44.42676,
+        "lon": -88.11639
+    },
+    "GC5YXTM": {
+        "name": "Preserve the Cache",
+        "lat": 44.42845,
+        "lon": -88.11344
+    },
+    "GC27PZX": {
+        "name": "Windmill Tower",
+        "lat": 44.29726,
+        "lon": -88.30009
+    },
+    "GC7RF4Z": {
+        "name": "FVRR 9 Plamann Park",
+        "lat": 44.32274,
+        "lon": -88.39109
+    },
+    "GC7J1E2": {
+        "name": "FVRR 13 I've had it up to HERE with you.",
+        "lat": 44.32797,
+        "lon": -88.39086
+    },
+    "GC1A0RX": {
+        "name": "Whitetail Cedars",
+        "lat": 44.32788,
+        "lon": -88.37672
+    },
+    "GC2C260": {
+        "name": "Planeview Travel Plaza Bug Hotel",
+        "lat": 43.94655,
+        "lon": -88.58377
+    },
+    "GCVJX1": {
+        "name": "Protecting the travelers",
+        "lat": 43.47131,
+        "lon": -88.41227
+    },
+    "GC62Z3K": {
+        "name": "30 Take Me To Church",
+        "lat": 43.47124,
+        "lon": -88.41769
+    },
+    "GC62Z1N": {
+        "name": "4 Take Me To Church",
+        "lat": 43.47136,
+        "lon": -88.45058
+    },
+    "GC5GG4H": {
+        "name": "26 Take Me To Church",
+        "lat": 43.47133,
+        "lon": -88.45759
+    },
+    "GC62Z37": {
+        "name": "23 Take Me To Church",
+        "lat": 43.47141,
+        "lon": -88.47003
+    },
+    "GC62Z1Z": {
+        "name": "8 Take Me To Church",
+        "lat": 43.47151,
+        "lon": -88.47986
+    },
+    "GC62Z24": {
+        "name": "10 Take Me To Church",
+        "lat": 43.47165,
+        "lon": -88.48876
+    },
+    "GC62Z2A": {
+        "name": "12 Take Me To Church",
+        "lat": 43.47159,
+        "lon": -88.49441
+    },
+    "GC62Z2B": {
+        "name": "13 Take Me To Church",
+        "lat": 43.4715,
+        "lon": -88.50719
+    },
+    "GC62Z2V": {
+        "name": "18 Take Me To Church",
+        "lat": 43.47169,
+        "lon": -88.52475
+    },
+    "GCVQ4R": {
+        "name": "The Last Stop",
+        "lat": 43.48416,
+        "lon": -88.49568
+    },
+    "GC62Z4D": {
+        "name": "39 Take Me To Church",
+        "lat": 43.48571,
+        "lon": -88.46007
+    },
+    "GC62Z4M": {
+        "name": "41 Take Me To Church",
+        "lat": 43.47615,
+        "lon": -88.46009
+    },
+    "GC62Z1K": {
+        "name": "3 Take Me To Church",
+        "lat": 43.47134,
+        "lon": -88.44719
+    },
+    "GC6XBCB": {
+        "name": "BOBCAMe and Went",
+        "lat": 43.43144,
+        "lon": -88.23158
+    },
+    "GC7X7H4": {
+        "name": "West Bend $1000 Cache Ba$h 2019",
+        "lat": 43.43317,
+        "lon": -88.19117
+    },
+    "GC8C2J5": {
+        "name": "Storm Area 51 Early Event and Get Together",
+        "lat": 36.08914,
+        "lon": -115.32664
+    },
+    "GC7TBCY": {
+        "name": "Homerun Graveyard",
+        "lat": 36.09083,
+        "lon": -115.32823
+    },
+    "GC7FA55": {
+        "name": "Not in a flood",
+        "lat": 36.08063,
+        "lon": -115.30768
+    },
+    "GC6W3GM": {
+        "name": "Not in the Wind",
+        "lat": 36.07966,
+        "lon": -115.30537
+    },
+    "GC3VCV9": {
+        "name": "Rambo",
+        "lat": 36.07791,
+        "lon": -115.2999
+    },
+    "GC613BW": {
+        "name": "A Squirrel Would Be Nuts to Be Here!",
+        "lat": 36.06056,
+        "lon": -115.29242
+    },
+    "GC6G5K9": {
+        "name": "Red Ridge Park",
+        "lat": 36.05933,
+        "lon": -115.28871
+    },
+    "GC613BT": {
+        "name": "A Boy & A Girl",
+        "lat": 36.05913,
+        "lon": -115.29304
+    },
+    "GC8C9WC": {
+        "name": "Area Favs #5 - Cool Down",
+        "lat": 36.0588,
+        "lon": -115.29776
+    },
+    "GC5Y6ET": {
+        "name": "Garfield loves this side of town!",
+        "lat": 36.06887,
+        "lon": -115.29569
+    },
+    "GC1RCMQ": {
+        "name": "Don't Look up my Skirt",
+        "lat": 36.02508,
+        "lon": -115.01505
+    },
+    "GCTW9C": {
+        "name": "The King Returned....Finally!",
+        "lat": 36.06208,
+        "lon": -115.04394
+    },
+    "GC4QMKJ": {
+        "name": "GoGo Crazy Cache",
+        "lat": 36.06315,
+        "lon": -115.04796
+    },
+    "GC2PG19": {
+        "name": "Pit Stop along R\/T",
+        "lat": 36.03943,
+        "lon": -114.94989
+    },
+    "GC22NB2": {
+        "name": "What Up Dawg?",
+        "lat": 36.04728,
+        "lon": -114.9409
+    },
+    "GC8DGHR": {
+        "name": "Alien at Mesa",
+        "lat": 36.08968,
+        "lon": -115.32519
+    },
+    "GC439E6": {
+        "name": "General Patton",
+        "lat": 35.91421,
+        "lon": -114.916
+    },
+    "GC4G6A5": {
+        "name": "Canines And Felines",
+        "lat": 35.91493,
+        "lon": -114.91376
+    },
+    "GC3BQTX": {
+        "name": "Jonesing for a cache",
+        "lat": 35.91581,
+        "lon": -114.91772
+    },
+    "GC5FTP2": {
+        "name": "Road to Dyslexic Dogs\/Curious Cats (Get\/Set 135)",
+        "lat": 35.92066,
+        "lon": -114.91672
+    },
+    "GC5F66V": {
+        "name": "Curious Cat: Skin A Cat",
+        "lat": 35.92385,
+        "lon": -114.91368
+    },
+    "GC5F667": {
+        "name": "Curious Cat: 9 Lives",
+        "lat": 35.92658,
+        "lon": -114.91086
+    },
+    "GC5F657": {
+        "name": "Curious Cat: Killed the Cat",
+        "lat": 35.92892,
+        "lon": -114.90932
+    },
+    "GC7GJ9H": {
+        "name": "The Minions Booty, Novas TB Hideaway",
+        "lat": 35.92927,
+        "lon": -114.90247
+    },
+    "GC550Y7": {
+        "name": "Dyslexic Gods-So Help Me Dog",
+        "lat": 35.93131,
+        "lon": -114.90598
+    },
+    "GC550Y4": {
+        "name": "Dyslexic Gods-A Sign From Dog",
+        "lat": 35.93376,
+        "lon": -114.90354
+    },
+    "GC550XZ": {
+        "name": "Dyslexic Gods-Are You There Dog?....",
+        "lat": 35.93612,
+        "lon": -114.90095
+    },
+    "GC550XV": {
+        "name": "Dyslexic Gods-Dogiva",
+        "lat": 35.93856,
+        "lon": -114.89847
+    },
+    "GC550XK": {
+        "name": "Dyslexic Gods-Dogzilla",
+        "lat": 35.94102,
+        "lon": -114.89603
+    },
+    "GC550JY": {
+        "name": "Dyslexic Gods-Dog Aweful",
+        "lat": 35.94341,
+        "lon": -114.89354
+    },
+    "GC552XV": {
+        "name": "Dyslexic Gods-Children of a Lesser Dog",
+        "lat": 35.94585,
+        "lon": -114.89094
+    },
+    "GC228JE": {
+        "name": "Nikki's View2",
+        "lat": 36.04943,
+        "lon": -114.94079
+    },
+    "GC66F0W": {
+        "name": "Cro-Minion",
+        "lat": 36.02896,
+        "lon": -114.94046
+    },
+    "GC435BV": {
+        "name": "\"The Walking Dead\"",
+        "lat": 36.01827,
+        "lon": -114.9407
+    },
+    "GC443M5": {
+        "name": "Cache and Dash #4",
+        "lat": 36.00538,
+        "lon": -114.94117
+    },
+    "GC4EM10": {
+        "name": "Hop on the Bus, Gus",
+        "lat": 36.00285,
+        "lon": -114.94032
+    },
+    "GC1Q10G": {
+        "name": "High Voltage",
+        "lat": 35.99659,
+        "lon": -114.93065
+    },
+    "GCTH5N": {
+        "name": "Spare Cache",
+        "lat": 35.99393,
+        "lon": -114.92317
+    },
+    "GC54X69": {
+        "name": "Another Sign of the Eagle",
+        "lat": 36.10418,
+        "lon": -115.02873
+    },
+    "GC409D8": {
+        "name": "Sign of the Eagle #2",
+        "lat": 36.10023,
+        "lon": -115.02689
+    },
+    "GC409DQ": {
+        "name": "Sign of the Eagle #3",
+        "lat": 36.10023,
+        "lon": -115.0247
+    },
+    "GCTPVG": {
+        "name": "To Izzy and the Spa",
+        "lat": 35.95911,
+        "lon": -114.89836
+    },
+    "GC7RTRK": {
+        "name": "Pabco trail 1",
+        "lat": 36.09871,
+        "lon": -114.98607
+    },
+    "GC7T83Q": {
+        "name": "Square Rock Pile",
+        "lat": 36.10232,
+        "lon": -115.00037
+    },
+    "GC7T83Y": {
+        "name": "Square Rock",
+        "lat": 36.10095,
+        "lon": -114.99474
+    },
+    "GC7T46R": {
+        "name": "A short walk",
+        "lat": 36.09999,
+        "lon": -114.99315
+    },
+    "GC1T77G": {
+        "name": "ROCKY ROAD",
+        "lat": 36.0993,
+        "lon": -114.99075
+    },
+    "GC7RTT6": {
+        "name": "Pabco trail 3",
+        "lat": 36.09876,
+        "lon": -114.98794
+    },
+    "GC7TRN0": {
+        "name": "Holy Bucket",
+        "lat": 36.097,
+        "lon": -114.98859
+    },
+    "GC3QQY7": {
+        "name": "Poke-n-Grab",
+        "lat": 36.0972,
+        "lon": -114.98657
+    },
+    "GC7RTT2": {
+        "name": "Pabco trail 2",
+        "lat": 36.1006,
+        "lon": -114.98672
+    },
+    "GC7T844": {
+        "name": "Pick A Pile",
+        "lat": 36.10288,
+        "lon": -114.98616
+    },
+    "GC7TE82": {
+        "name": "Twisted Woods",
+        "lat": 36.10443,
+        "lon": -114.98514
+    },
+    "GC7TE8G": {
+        "name": "Windy Mesa",
+        "lat": 36.10739,
+        "lon": -114.98546
+    },
+    "GC7TFW4": {
+        "name": "Lone Bush",
+        "lat": 36.10881,
+        "lon": -114.98469
+    },
+    "GC81CPR": {
+        "name": "Beyond the wash",
+        "lat": 36.10878,
+        "lon": -114.98279
+    },
+    "GC7TFWA": {
+        "name": "Red Rock Pile",
+        "lat": 36.11046,
+        "lon": -114.98316
+    },
+    "GC7TRN4": {
+        "name": "Pick another pile",
+        "lat": 36.11231,
+        "lon": -114.98274
+    },
+    "GC7TRN7": {
+        "name": "Pile in a bush",
+        "lat": 36.11285,
+        "lon": -114.98455
+    },
+    "GC8B0A": {
+        "name": "American Hero Cache",
+        "lat": 42.73568,
+        "lon": -73.80689
+    },
+    "GC4HMR6": {
+        "name": "\"WARREN\"",
+        "lat": 42.62266,
+        "lon": -73.96938
+    },
+    "GC4HMQP": {
+        "name": "\"HOOTYHOO\"",
+        "lat": 42.61861,
+        "lon": -73.97553
+    },
+    "GC8AX33": {
+        "name": "NYCRG's 17th Annual Picnic",
+        "lat": 42.65119,
+        "lon": -74.01492
+    },
+    "GC4FV0N": {
+        "name": "\"In The Pines\"",
+        "lat": 42.61794,
+        "lon": -73.97876
+    },
+    "GC4HMWE": {
+        "name": "\"SCOTLAND PINES\"",
+        "lat": 42.62526,
+        "lon": -73.94736
+    },
+    "GC6RPVM": {
+        "name": "HHRT \"PINE\"",
+        "lat": 42.63133,
+        "lon": -73.87223
+    },
+    "GC6RPWD": {
+        "name": "HHRT small \"ELM\"",
+        "lat": 42.63085,
+        "lon": -73.8701
+    },
+    "GC58JWQ": {
+        "name": "Who Is \"fkrol\"",
+        "lat": 42.6287,
+        "lon": -73.85309
+    },
+    "GC6T64B": {
+        "name": "First \"K-REX\"",
+        "lat": 42.60502,
+        "lon": -73.84815
+    },
+    "GC40A1E": {
+        "name": "\"RENMIN\"",
+        "lat": 42.57915,
+        "lon": -73.82798
+    },
+    "GC43PZC": {
+        "name": "\"CHALLENGE\" 5 X 100",
+        "lat": 42.58143,
+        "lon": -73.83429
+    },
+    "GC4G214": {
+        "name": "31 Days of Caching \"Mr & Mrs Magic's Hide\"",
+        "lat": 42.56298,
+        "lon": -73.82413
+    },
+    "GC1B8A3": {
+        "name": "Land & Win",
+        "lat": 42.55943,
+        "lon": -73.81087
+    },
+    "GC558W4": {
+        "name": "Who is WALEYGATOR",
+        "lat": 42.55913,
+        "lon": -73.80796
+    },
+    "GC5WC8Y": {
+        "name": "\"1000 for \"waleygator\"",
+        "lat": 42.55486,
+        "lon": -73.80938
+    },
+    "GC4R6G2": {
+        "name": "\"Larry's Fault at 9W\"",
+        "lat": 42.56398,
+        "lon": -73.8058
+    },
+    "GC558XZ": {
+        "name": "MAYO Clapper Road",
+        "lat": 42.55919,
+        "lon": -73.78614
+    },
+    "GC5N8YY": {
+        "name": "Monkey Business",
+        "lat": 42.56108,
+        "lon": -73.78666
+    },
+    "GC5VCWT": {
+        "name": "does your engine work",
+        "lat": 42.56753,
+        "lon": -73.78767
+    },
+    "GC3KMAE": {
+        "name": "WROW Transit",
+        "lat": 42.57366,
+        "lon": -73.78168
+    },
+    "GC3KAWV": {
+        "name": "\"MAYO\" Wemple Road",
+        "lat": 42.57412,
+        "lon": -73.76751
+    },
+    "GC558YM": {
+        "name": "RED HEAD Wheeler Road",
+        "lat": 42.5814,
+        "lon": -73.76606
+    },
+    "GC33AT6": {
+        "name": "\"YOU AUTO LIKE THIS TWO\"",
+        "lat": 42.56919,
+        "lon": -73.7668
+    },
+    "GC5QR7K": {
+        "name": "Challenge! Is it an MCD?",
+        "lat": 42.56322,
+        "lon": -73.76629
+    },
+    "GC3TR0K": {
+        "name": "\"MarkB\"",
+        "lat": 42.55044,
+        "lon": -73.76767
+    },
+    "GC1B3M3": {
+        "name": "Henry Hudson's hidden treasure",
+        "lat": 42.54527,
+        "lon": -73.75953
+    },
+    "GC1BGC4": {
+        "name": "Mid Hudson Watershed",
+        "lat": 42.54733,
+        "lon": -73.75985
+    },
+    "GC3TJ8A": {
+        "name": "\"LOVESTOFISH\"",
+        "lat": 42.54607,
+        "lon": -73.76517
+    },
+    "GC3TR12": {
+        "name": "\"Where is Richard E\"",
+        "lat": 42.54895,
+        "lon": -73.76944
+    },
+    "GC79ZV5": {
+        "name": "Pleasure \"P&G\"",
+        "lat": 42.53613,
+        "lon": -73.77861
+    },
+    "GC87H20": {
+        "name": "Writing Cramps",
+        "lat": 42.53327,
+        "lon": -73.77928
+    },
+    "GC1ZC14": {
+        "name": "144",
+        "lat": 42.52942,
+        "lon": -73.78467
+    },
+    "GC3TJ74": {
+        "name": "\"Where is TIMPAT\"",
+        "lat": 42.5142,
+        "lon": -73.78639
+    },
+    "GC339DF": {
+        "name": "\"ROADSIDE P&G\"",
+        "lat": 42.51171,
+        "lon": -73.78668
+    },
+    "GC7857B": {
+        "name": "Pleasure finding a micro in the woods!!!",
+        "lat": 42.51304,
+        "lon": -73.78889
+    },
+    "GC3TJ5W": {
+        "name": "\"LadybugNY\" Red Head",
+        "lat": 42.50456,
+        "lon": -73.78974
+    },
+    "GC3TR22": {
+        "name": "\"Who is CDParker\"",
+        "lat": 42.50053,
+        "lon": -73.79466
+    },
+    "GC28RDW": {
+        "name": "\"STUMPED U\"",
+        "lat": 42.49774,
+        "lon": -73.79492
+    },
+    "GC3KAFP": {
+        "name": "\"Chippup Goes West\"",
+        "lat": 42.4955,
+        "lon": -73.79467
+    },
+    "GC35X6N": {
+        "name": "\"Book 'em, Danno!\"",
+        "lat": 42.49233,
+        "lon": -73.7939
+    },
+    "GC3X49Z": {
+        "name": "Hannacrois Creek 144",
+        "lat": 42.46505,
+        "lon": -73.79198
+    },
+    "GC4J3WP": {
+        "name": "\"BURGUNDYBUG\"",
+        "lat": 42.45876,
+        "lon": -73.79092
+    },
+    "GC2H00Z": {
+        "name": "\"Happy Birthday Cookie\"",
+        "lat": 42.44569,
+        "lon": -73.78767
+    },
+    "GC4DGJQ": {
+        "name": "\"SPIDER\"",
+        "lat": 42.43529,
+        "lon": -73.78849
+    },
+    "GC2ARPW": {
+        "name": "\"The Chief\"",
+        "lat": 42.53174,
+        "lon": -73.79511
+    },
+    "GC5CRTP": {
+        "name": "\"MAYO\" Peacock",
+        "lat": 42.52983,
+        "lon": -73.79939
+    },
+    "GC63CRW": {
+        "name": "Green Water",
+        "lat": 42.53305,
+        "lon": -73.80375
+    },
+    "GC2XV2Q": {
+        "name": "\"100 day challenge\"",
+        "lat": 42.54051,
+        "lon": -73.80556
+    },
+    "GC3MHB0": {
+        "name": "\"Don't pick the Flowers\"",
+        "lat": 42.54588,
+        "lon": -73.80709
+    },
+    "GC33AR8": {
+        "name": "\"YOU AUTO LIKE THIS ONE\"",
+        "lat": 42.55259,
+        "lon": -73.8082
+    },
+    "GC45088": {
+        "name": "Golden Opportunity",
+        "lat": 42.56722,
+        "lon": -73.80389
+    },
+    "GC78V58": {
+        "name": "Hans Silo",
+        "lat": 42.58206,
+        "lon": -73.79661
+    },
+    "GC4EKXE": {
+        "name": "\"WIGGLESWORTH CROSSES THE POND\"",
+        "lat": 42.5872,
+        "lon": -73.79693
+    },
+    "GC4HK7N": {
+        "name": "31 days of caching \"Cully 50's\" hide",
+        "lat": 42.59686,
+        "lon": -73.79757
+    },
+    "GC782JY": {
+        "name": "\"Pleasure Rest\"",
+        "lat": 42.60815,
+        "lon": -73.78959
+    },
+    "GC4QT1N": {
+        "name": "\"GEO_GIRLZ\"",
+        "lat": 42.61308,
+        "lon": -73.78669
+    },
+    "GC4C2QZ": {
+        "name": "\"End Of The Road\"",
+        "lat": 42.6165,
+        "lon": -73.78279
+    },
+    "GC4QWMN": {
+        "name": "\"JOE THE MAILMAN\"",
+        "lat": 42.61923,
+        "lon": -73.78475
+    },
+    "GC4QWM1": {
+        "name": "\"klesieur\"",
+        "lat": 42.62133,
+        "lon": -73.77653
+    },
+    "GC4MJ4V": {
+        "name": "\"WAS THE D&H RAIL ROAD\"",
+        "lat": 42.62585,
+        "lon": -73.76853
+    },
+    "GC2JE40": {
+        "name": "Halve Maen",
+        "lat": 42.82645,
+        "lon": -73.70941
+    },
+    "GC56Y0Z": {
+        "name": "Doctor Who #13",
+        "lat": 42.79128,
+        "lon": -73.87114
+    },
+    "GCYX7H": {
+        "name": "B. O. E. 2 ( Bored of Education )",
+        "lat": 42.53608,
+        "lon": -73.83662
+    },
+    "GC39XAN": {
+        "name": "\"RAY\"",
+        "lat": 42.53233,
+        "lon": -73.80619
+    },
+    "GC5ZZ2A": {
+        "name": "MONKEYING AROUND",
+        "lat": 42.52641,
+        "lon": -73.80903
+    },
+    "GC3TJAR": {
+        "name": "\"MOOSE LADY\"",
+        "lat": 42.52868,
+        "lon": -73.80917
+    },
+    "GC3KAXV": {
+        "name": "\"JOLLEY\"",
+        "lat": 42.60265,
+        "lon": -73.78045
+    },
+    "GC4C22J": {
+        "name": "\"Take a break\"",
+        "lat": 42.59538,
+        "lon": -73.78647
+    },
+    "GC4J3Y9": {
+        "name": "\"skibums59\"",
+        "lat": 42.60791,
+        "lon": -73.79444
+    },
+    "GC6P3TN": {
+        "name": "BLACK",
+        "lat": 42.60692,
+        "lon": -73.79213
+    },
+    "GC1J40K": {
+        "name": "Lake View",
+        "lat": 42.82694,
+        "lon": -73.51905
+    },
+    "GC17ENY": {
+        "name": "Welcome to Wilmington",
+        "lat": 42.87011,
+        "lon": -72.91389
+    },
+    "GC5QJ56": {
+        "name": "Cache Each Month Challenge Cache",
+        "lat": 42.90396,
+        "lon": -72.55016
+    },
+    "GC5P4NA": {
+        "name": "D T Chart T1.5 Line Challenge Cache",
+        "lat": 42.94496,
+        "lon": -72.53577
+    },
+    "GC5P4P1": {
+        "name": "D T Chart D2.5 Line Challenge Cache",
+        "lat": 42.99808,
+        "lon": -72.48265
+    },
+    "GC72MXY": {
+        "name": "D T Chart Either Diagonal Line Challenge Cache",
+        "lat": 43.0025,
+        "lon": -72.47214
+    },
+    "GC6WMHE": {
+        "name": "DT Chart Blackout Bingo Challenge",
+        "lat": 43.03702,
+        "lon": -72.46591
+    },
+    "GC73KWX": {
+        "name": "366 Calendar Days\/Full DT Chart 2 for 1 Challenge",
+        "lat": 42.99615,
+        "lon": -72.4954
+    },
+    "GC6W79J": {
+        "name": "DT Chart Letter X Bingo Challenge Cache",
+        "lat": 42.97881,
+        "lon": -72.51835
+    },
+    "GC40KYN": {
+        "name": "VT -- Putney's Geological Grimace",
+        "lat": 42.95795,
+        "lon": -72.53311
+    },
+    "GC5P0A0": {
+        "name": "D T Chart Diagonal Line Challenge Cache",
+        "lat": 42.95621,
+        "lon": -72.53365
+    },
+    "GC6W79M": {
+        "name": "All 366 Calendar Days Filled Challenge Cache",
+        "lat": 42.93108,
+        "lon": -72.53604
+    },
+    "GC41E7W": {
+        "name": "Pi For The Holidays",
+        "lat": 42.88332,
+        "lon": -72.53334
+    },
+    "GCMYKV": {
+        "name": "Yankee Ingenuity Webcam",
+        "lat": 42.90616,
+        "lon": -72.06119
+    },
+    "GC9E": {
+        "name": "NH #1 - Mines Follies",
+        "lat": 42.75333,
+        "lon": -71.50009
+    },
+    "GC3FRPW": {
+        "name": "Balrgn Sails Past 4K - {61 Day Challenge}",
+        "lat": 42.91594,
+        "lon": -71.0927
+    },
+    "GCG8TK": {
+        "name": "UNH Webcam Cache",
+        "lat": 43.13828,
+        "lon": -70.93459
+    },
+    "GC7M8GX": {
+        "name": "Hard Way In",
+        "lat": 43.13916,
+        "lon": -70.94778
+    },
+    "GC44JEG": {
+        "name": "12 Little Caches Challenge",
+        "lat": 43.1371,
+        "lon": -70.94953
+    },
+    "GC4BM36": {
+        "name": "Redhook Cache",
+        "lat": 43.08784,
+        "lon": -70.80518
+    },
+    "GC5HF55": {
+        "name": "Misinterpreted 'koneko' - A 100-Day Challenge",
+        "lat": 43.0729,
+        "lon": -70.78094
+    },
+    "GC7FHJA": {
+        "name": "20,000 Leagues Under the Sea Challenge",
+        "lat": 43.19598,
+        "lon": -70.94795
+    },
+    "GC7H3JB": {
+        "name": "5 of a Kind County Challenge",
+        "lat": 43.21806,
+        "lon": -70.99461
+    },
+    "GC7H3JN": {
+        "name": "Geocaching to the Power of 2 Challenge",
+        "lat": 43.2065,
+        "lon": -70.99843
+    },
+    "GC7FHHV": {
+        "name": "Jasmer Challenge (NH)",
+        "lat": 43.19469,
+        "lon": -70.99825
+    },
+    "GC7G5GD": {
+        "name": "Around the World in 80 Caches Challenge",
+        "lat": 43.19293,
+        "lon": -70.99787
+    },
+    "GC7FYKC": {
+        "name": "Canada 150 Challenge, eh",
+        "lat": 43.17471,
+        "lon": -71.0029
+    },
+    "GC7G5H3": {
+        "name": "Danger is My Middle Name Challenge",
+        "lat": 43.15423,
+        "lon": -71.00719
+    },
+    "GC7HTZ5": {
+        "name": "PulmonaryHip's No Longer Hard Challenge",
+        "lat": 43.15016,
+        "lon": -71.00511
+    },
+    "GC5E0Z3": {
+        "name": "Fraternal Twins Challenge",
+        "lat": 43.14916,
+        "lon": -71.00885
+    },
+    "GC5HR4G": {
+        "name": "Shift Lock Challenge",
+        "lat": 43.14849,
+        "lon": -71.00342
+    },
+    "GC7FVP5": {
+        "name": "Presidential County Challenge",
+        "lat": 43.16083,
+        "lon": -70.98257
+    },
+    "GC438MT": {
+        "name": "Betwixt and Between",
+        "lat": 43.15859,
+        "lon": -70.99167
+    },
+    "GC7X71V": {
+        "name": "41 Negatives Positively Makes a Challenge",
+        "lat": 43.15569,
+        "lon": -70.92494
+    },
+    "GC78K7D": {
+        "name": "13 Original Colonies Challenge",
+        "lat": 42.9816,
+        "lon": -70.94896
+    },
+    "GC4FA63": {
+        "name": "NH Fizzy Challenge Cache",
+        "lat": 42.98381,
+        "lon": -70.97112
+    },
+    "GC2HZWH": {
+        "name": "30 Consecutive Days of Caching",
+        "lat": 43.00432,
+        "lon": -70.97567
+    },
+    "GC4BM1F": {
+        "name": "Orchard Park LPC",
+        "lat": 43.05903,
+        "lon": -70.79854
+    },
+    "GC3FW62": {
+        "name": "Lovey Cole",
+        "lat": 43.10007,
+        "lon": -70.75573
+    },
+    "GC7B67H": {
+        "name": "April 19, 9:02 AM - Virtual Reward",
+        "lat": 43.1282,
+        "lon": -70.71693
+    },
+    "GC128": {
+        "name": "The Fort Williams Cache",
+        "lat": 43.62103,
+        "lon": -70.21368
+    },
+    "GC7B8TX": {
+        "name": "Maine Railroad History: South Portland",
+        "lat": 43.64131,
+        "lon": -70.24559
+    },
+    "GC47EB": {
+        "name": "director",
+        "lat": 43.6546,
+        "lon": -70.25726
+    },
+    "GC3GGJK": {
+        "name": "Geocaching's Two Mile High Club: CHALLENGE Cache!",
+        "lat": 43.6349,
+        "lon": -70.31749
+    },
+    "GC309QE": {
+        "name": "Where's Wal-D'oh - Brunswick, ME",
+        "lat": 43.90738,
+        "lon": -69.90978
+    },
+    "GC331C4": {
+        "name": "a little birdy told us u reached 100day challenge",
+        "lat": 43.89778,
+        "lon": -69.92695
+    },
+    "GC7G7CQ": {
+        "name": "Australia Day 2018 Wombat",
+        "lat": 43.94,
+        "lon": -69.97857
+    },
+    "GC6M3VB": {
+        "name": "Not necessarily stoned, but...Beautiful...",
+        "lat": 44.08965,
+        "lon": -69.78048
+    },
+    "GCXB3Z": {
+        "name": "Carpe Diem -- Seize the Cache!",
+        "lat": 44.31225,
+        "lon": -69.80059
+    },
+    "GC532RB": {
+        "name": "Relax and read a book......",
+        "lat": 44.59585,
+        "lon": -69.61009
+    },
+    "GC243RA": {
+        "name": "Halfway",
+        "lat": 44.6918,
+        "lon": -69.42577
+    },
+    "GC3PDCX": {
+        "name": "toolmkr tribute cache",
+        "lat": 44.78168,
+        "lon": -69.39433
+    },
+    "GC7CEYP": {
+        "name": "10,000 Favorites A Quality vs. Quantity Challenge",
+        "lat": 44.77062,
+        "lon": -68.8591
+    },
+    "GC2V1FT": {
+        "name": "366 Days of Caches- The Challenge",
+        "lat": 44.79146,
+        "lon": -68.87008
+    },
+    "GC7G6BX": {
+        "name": "Double Trouble Challenge",
+        "lat": 44.82638,
+        "lon": -68.72806
+    },
+    "GC14TV3": {
+        "name": "Airline TB Inn and Resort Annex",
+        "lat": 44.81714,
+        "lon": -68.45334
+    },
+    "GC17N7B": {
+        "name": "The Great River Katahdin",
+        "lat": 44.85949,
+        "lon": -68.28749
+    },
+    "GC442WB": {
+        "name": "The Bottom of Maguerrewoc Mountain",
+        "lat": 45.15786,
+        "lon": -67.28658
+    },
+    "GC8C3KV": {
+        "name": "Bethel Iron Insert",
+        "lat": 45.16011,
+        "lon": -66.91205
+    },
+    "GC3X6H2": {
+        "name": "Cruising by a cache - where west meets east",
+        "lat": 45.27061,
+        "lon": -66.06246
+    },
+    "GCA352": {
+        "name": "Father of Confederation - Tilley",
+        "lat": 45.29791,
+        "lon": -66.03419
+    },
+    "GC329B8": {
+        "name": "01 January Daily Challenge",
+        "lat": 45.50735,
+        "lon": -65.80445
+    },
+    "GC329B9": {
+        "name": "02 February (28) Daily Challenge",
+        "lat": 45.50557,
+        "lon": -65.79497
+    },
+    "GC329BA": {
+        "name": "03 March Daily Challenge",
+        "lat": 45.49053,
+        "lon": -65.74671
+    },
+    "GC16X2W": {
+        "name": "Titus Hill view",
+        "lat": 45.48494,
+        "lon": -65.73141
+    },
+    "GC88JGG": {
+        "name": "Titus Hill Drumlin",
+        "lat": 45.48531,
+        "lon": -65.73058
+    },
+    "GC329BB": {
+        "name": "04 April Daily Challenge",
+        "lat": 45.49545,
+        "lon": -65.72795
+    },
+    "GC329BC": {
+        "name": "05 May Daily Challenge",
+        "lat": 45.49801,
+        "lon": -65.72836
+    },
+    "GC329BD": {
+        "name": "06 June Daily Challenge",
+        "lat": 45.5008,
+        "lon": -65.73118
+    },
+    "GC329BF": {
+        "name": "07 July Daily Challenge",
+        "lat": 45.50443,
+        "lon": -65.73334
+    },
+    "GC329BG": {
+        "name": "08 August Daily Challenge",
+        "lat": 45.51541,
+        "lon": -65.74267
+    },
+    "GC329BH": {
+        "name": "09 September Daily Challenge",
+        "lat": 45.51974,
+        "lon": -65.75413
+    },
+    "GC329BK": {
+        "name": "10 October Daily Challenge",
+        "lat": 45.5219,
+        "lon": -65.75674
+    },
+    "GC329BM": {
+        "name": "11 November Daily Challenge",
+        "lat": 45.5657,
+        "lon": -65.75738
+    },
+    "GC329BN": {
+        "name": "12 December Daily Challenge",
+        "lat": 45.56978,
+        "lon": -65.75653
+    },
+    "GC2B5ZF": {
+        "name": "Centurion Challenge Cache",
+        "lat": 45.94315,
+        "lon": -64.40017
+    },
+    "GC30KH6": {
+        "name": "But....Where do I sign? Challenge",
+        "lat": 45.89655,
+        "lon": -64.34749
+    },
+    "GC1YP84": {
+        "name": "To Be Honest, My Interest is Flagging",
+        "lat": 45.81666,
+        "lon": -64.23334
+    },
+    "GC83NMJ": {
+        "name": "Chignecto Isthmus - A land bridge",
+        "lat": 45.85473,
+        "lon": -64.26169
+    },
+    "GC7HDZV": {
+        "name": "For the Challenge: 10 Wherigo Caches",
+        "lat": 45.04608,
+        "lon": -63.46064
+    },
+    "GC7HE05": {
+        "name": "For the Challenge: 10 Cache Types",
+        "lat": 45.04391,
+        "lon": -63.46083
+    },
+    "GC3NZB0": {
+        "name": "One For OWEN!",
+        "lat": 45.05311,
+        "lon": -63.45547
+    },
+    "GC7HZJX": {
+        "name": "Challenge Trail: 50 Souvenirs",
+        "lat": 44.88214,
+        "lon": -63.586
+    },
+    "GC7HZ4H": {
+        "name": "Challenge Trail: Participate in 2 CITO Events",
+        "lat": 44.88347,
+        "lon": -63.58426
+    },
+    "GC7HZJW": {
+        "name": "Challenge Trail: 10 Virtual Caches",
+        "lat": 44.88487,
+        "lon": -63.58316
+    },
+    "GC7HZY7": {
+        "name": "Challenge Trail: Around the World",
+        "lat": 44.88629,
+        "lon": -63.58256
+    },
+    "GC7HZJV": {
+        "name": "Challenge Trail: The 81 times 2",
+        "lat": 44.88746,
+        "lon": -63.58098
+    },
+    "GC7HZ4Z": {
+        "name": "Challenge Trail: Difficulty 5 Mini Challenge",
+        "lat": 44.88875,
+        "lon": -63.57977
+    },
+    "GC7HZJT": {
+        "name": "Challenge Trail: Difficulty 4.5 Mini Challenge",
+        "lat": 44.89016,
+        "lon": -63.58054
+    },
+    "GC7HZY2": {
+        "name": "Challenge Trail: Difficulty 4 Mini Challenge",
+        "lat": 44.89167,
+        "lon": -63.58081
+    },
+    "GC7HZJQ": {
+        "name": "Challenge Trail: Difficulty 3.5 Mini Challenge",
+        "lat": 44.89295,
+        "lon": -63.58226
+    },
+    "GC7HZY0": {
+        "name": "Challenge Trail: Difficulty 3 Mini Challenge",
+        "lat": 44.8944,
+        "lon": -63.58129
+    },
+    "GC7HZJM": {
+        "name": "Challenge Trail: Difficulty 2.5 Mini Challenge",
+        "lat": 44.89496,
+        "lon": -63.57897
+    },
+    "GC74XK3": {
+        "name": "Shubie Park Reverse Wherigo",
+        "lat": 44.70758,
+        "lon": -63.55766
+    },
+    "GC13EBW": {
+        "name": "BRIDGE TO SHUBIE",
+        "lat": 44.70721,
+        "lon": -63.55845
+    },
+    "GCQ0N8": {
+        "name": "Halifax Airport Travel Bug Hotel",
+        "lat": 44.86355,
+        "lon": -63.54338
+    },
+    "GC68ZNR": {
+        "name": "Blue Eyes",
+        "lat": 44.70025,
+        "lon": -63.74952
+    },
+    "GC6P48J": {
+        "name": "Wspomnienie_PKS",
+        "lat": 52.39432,
+        "lon": 22.01893
+    },
+    "GC4KK2F": {
+        "name": "Kreda",
+        "lat": 52.33083,
+        "lon": 23.05047
+    },
+    "GC83E6Y": {
+        "name": "National park Belovezhskaya Pushcha",
+        "lat": 52.66678,
+        "lon": 23.86428
     }
 }
