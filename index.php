@@ -3,10 +3,10 @@
 require 'vendor/autoload.php';
 
 use Treffynnon\Navigator as N;
-use Treffynnon\Navigator\Distance\Converter\MetreToKilometre as KM;
-use Treffynnon\Navigator\Distance\Converter\MetreToMile as M;
 use Treffynnon\Navigator\Coordinate as C;
 use Treffynnon\Navigator\Coordinate\DmsParser as DMS;
+use Treffynnon\Navigator\Distance\Converter\MetreToKilometre as KM;
+use Treffynnon\Navigator\Distance\Converter\MetreToMile as M;
 
 $people = array_merge(
     ['rosie' => [], 'luke' => [], 'lisa' => [], 'andy' => []],
